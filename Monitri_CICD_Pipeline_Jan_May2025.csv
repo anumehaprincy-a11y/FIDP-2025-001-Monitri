@@ -1,0 +1,226 @@
+Deployment_ID,Deployment_Date,Environment,Team,Deployment_Status,Incidents_Triggered,Downtime_Minutes,Clients_Affected,Root_Cause,Month
+DEP-0001,2025-01-02,Production,Compliance Engineering,Success,0,0,0,N/A,Jan-2025
+DEP-0002,2025-01-02,Production,Payments Engineering,Success,0,0,0,N/A,Jan-2025
+DEP-0003,2025-01-05,Production,Payments Engineering,Success,0,0,0,N/A,Jan-2025
+DEP-0004,2025-01-05,Production,Security Engineering,Success,0,0,0,N/A,Jan-2025
+DEP-0005,2025-01-05,Production,Compliance Engineering,Success,0,0,0,N/A,Jan-2025
+DEP-0006,2025-01-05,Production,Security Engineering,Success,0,0,0,N/A,Jan-2025
+DEP-0007,2025-01-06,Production,Compliance Engineering,Success,0,0,0,N/A,Jan-2025
+DEP-0008,2025-01-06,Production,Payments Engineering,Success,0,0,0,N/A,Jan-2025
+DEP-0009,2025-01-07,Production,Data Engineering,Success,0,0,0,N/A,Jan-2025
+DEP-0010,2025-01-08,Production,Security Engineering,Success,0,0,0,N/A,Jan-2025
+DEP-0011,2025-01-08,Production,Platform Engineering,Success,0,0,0,N/A,Jan-2025
+DEP-0012,2025-01-09,Production,Data Engineering,Failed,7,18,3,API version mismatch with Stripe gateway,Jan-2025
+DEP-0013,2025-01-12,Production,Data Engineering,Success,0,0,0,N/A,Jan-2025
+DEP-0014,2025-01-12,Production,Compliance Engineering,Success,0,0,0,N/A,Jan-2025
+DEP-0015,2025-01-12,Staging,Data Engineering,Success,0,0,0,N/A,Jan-2025
+DEP-0016,2025-01-12,Production,Security Engineering,Success,0,0,0,N/A,Jan-2025
+DEP-0017,2025-01-12,Staging,Data Engineering,Success,0,0,0,N/A,Jan-2025
+DEP-0018,2025-01-13,Production,Data Engineering,Rolled Back,1,19,10,Compliance rule violation detected in staging,Jan-2025
+DEP-0019,2025-01-14,Staging,Payments Engineering,Success,0,0,0,N/A,Jan-2025
+DEP-0020,2025-01-14,Production,Data Engineering,Success,0,0,0,N/A,Jan-2025
+DEP-0021,2025-01-15,Production,Data Engineering,Success,0,0,0,N/A,Jan-2025
+DEP-0022,2025-01-16,Production,Payments Engineering,Success,0,0,0,N/A,Jan-2025
+DEP-0023,2025-01-16,Production,Platform Engineering,Success,0,0,0,N/A,Jan-2025
+DEP-0024,2025-01-19,Production,Payments Engineering,Success,0,0,0,N/A,Jan-2025
+DEP-0025,2025-01-19,Staging,Platform Engineering,Success,0,0,0,N/A,Jan-2025
+DEP-0026,2025-01-19,Staging,Data Engineering,Success,0,0,0,N/A,Jan-2025
+DEP-0027,2025-01-19,Production,Data Engineering,Success,0,0,0,N/A,Jan-2025
+DEP-0028,2025-01-20,Production,Payments Engineering,Success,0,0,0,N/A,Jan-2025
+DEP-0029,2025-01-20,Staging,Platform Engineering,Success,0,0,0,N/A,Jan-2025
+DEP-0030,2025-01-21,Production,Platform Engineering,Success,0,0,0,N/A,Jan-2025
+DEP-0031,2025-01-22,Staging,Payments Engineering,Success,0,0,0,N/A,Jan-2025
+DEP-0032,2025-01-22,Staging,Platform Engineering,Failed,4,143,25,Incompatible schema change in client data model,Jan-2025
+DEP-0033,2025-01-23,Production,Security Engineering,Success,0,0,0,N/A,Jan-2025
+DEP-0034,2025-01-26,Production,Security Engineering,Success,0,0,0,N/A,Jan-2025
+DEP-0035,2025-01-26,Production,Payments Engineering,Success,0,0,0,N/A,Jan-2025
+DEP-0036,2025-01-26,Production,Data Engineering,Success,0,0,0,N/A,Jan-2025
+DEP-0037,2025-01-26,Production,Compliance Engineering,Success,0,0,0,N/A,Jan-2025
+DEP-0038,2025-01-26,Staging,Platform Engineering,Success,0,0,0,N/A,Jan-2025
+DEP-0039,2025-01-27,Staging,Data Engineering,Success,0,0,0,N/A,Jan-2025
+DEP-0040,2025-01-28,Production,Payments Engineering,Success,0,0,0,N/A,Jan-2025
+DEP-0041,2025-01-28,Staging,Payments Engineering,Success,0,0,0,N/A,Jan-2025
+DEP-0042,2025-01-29,Production,Payments Engineering,Success,0,0,0,N/A,Jan-2025
+DEP-0043,2025-02-02,Production,Platform Engineering,Success,0,0,0,N/A,Feb-2025
+DEP-0044,2025-02-02,Production,Security Engineering,Success,0,0,0,N/A,Feb-2025
+DEP-0045,2025-02-03,Production,Security Engineering,Rolled Back,1,43,1,Compliance rule violation detected in staging,Feb-2025
+DEP-0046,2025-02-03,Production,Payments Engineering,Success,0,0,0,N/A,Feb-2025
+DEP-0047,2025-02-04,Production,Platform Engineering,Success,0,0,0,N/A,Feb-2025
+DEP-0048,2025-02-05,Production,Platform Engineering,Failed,6,30,44,Rate limiting breach on vendor API,Feb-2025
+DEP-0049,2025-02-05,Production,Security Engineering,Success,0,0,0,N/A,Feb-2025
+DEP-0050,2025-02-06,Staging,Data Engineering,Success,0,0,0,N/A,Feb-2025
+DEP-0051,2025-02-06,Staging,Compliance Engineering,Failed,8,180,40,API version mismatch with Stripe gateway,Feb-2025
+DEP-0052,2025-02-09,Production,Payments Engineering,Success,0,0,0,N/A,Feb-2025
+DEP-0053,2025-02-09,Production,Platform Engineering,Success,0,0,0,N/A,Feb-2025
+DEP-0054,2025-02-09,Production,Security Engineering,Success,0,0,0,N/A,Feb-2025
+DEP-0055,2025-02-09,Production,Payments Engineering,Success,0,0,0,N/A,Feb-2025
+DEP-0056,2025-02-10,Staging,Payments Engineering,Success,0,0,0,N/A,Feb-2025
+DEP-0057,2025-02-10,Staging,Platform Engineering,Success,0,0,0,N/A,Feb-2025
+DEP-0058,2025-02-11,Production,Compliance Engineering,Success,0,0,0,N/A,Feb-2025
+DEP-0059,2025-02-11,Production,Compliance Engineering,Success,0,0,0,N/A,Feb-2025
+DEP-0060,2025-02-12,Production,Platform Engineering,Success,0,0,0,N/A,Feb-2025
+DEP-0061,2025-02-13,Staging,Payments Engineering,Success,0,0,0,N/A,Feb-2025
+DEP-0062,2025-02-13,Production,Security Engineering,Success,0,0,0,N/A,Feb-2025
+DEP-0063,2025-02-16,Production,Data Engineering,Success,0,0,0,N/A,Feb-2025
+DEP-0064,2025-02-16,Staging,Payments Engineering,Success,0,0,0,N/A,Feb-2025
+DEP-0065,2025-02-16,Staging,Data Engineering,Success,0,0,0,N/A,Feb-2025
+DEP-0066,2025-02-16,Production,Security Engineering,Success,0,0,0,N/A,Feb-2025
+DEP-0067,2025-02-16,Production,Compliance Engineering,Success,0,0,0,N/A,Feb-2025
+DEP-0068,2025-02-17,Staging,Platform Engineering,Success,0,0,0,N/A,Feb-2025
+DEP-0069,2025-02-18,Production,Security Engineering,Failed,7,157,13,Unhandled exception in transaction routing logic,Feb-2025
+DEP-0070,2025-02-18,Staging,Payments Engineering,Success,0,0,0,N/A,Feb-2025
+DEP-0071,2025-02-19,Production,Security Engineering,Success,0,0,0,N/A,Feb-2025
+DEP-0072,2025-02-20,Production,Compliance Engineering,Success,0,0,0,N/A,Feb-2025
+DEP-0073,2025-02-20,Production,Compliance Engineering,Success,0,0,0,N/A,Feb-2025
+DEP-0074,2025-02-23,Staging,Data Engineering,Success,0,0,0,N/A,Feb-2025
+DEP-0075,2025-02-23,Production,Security Engineering,Success,0,0,0,N/A,Feb-2025
+DEP-0076,2025-02-23,Production,Platform Engineering,Success,0,0,0,N/A,Feb-2025
+DEP-0077,2025-02-23,Production,Platform Engineering,Success,0,0,0,N/A,Feb-2025
+DEP-0078,2025-02-23,Production,Compliance Engineering,Success,0,0,0,N/A,Feb-2025
+DEP-0079,2025-02-24,Production,Compliance Engineering,Success,0,0,0,N/A,Feb-2025
+DEP-0080,2025-02-25,Production,Data Engineering,Success,0,0,0,N/A,Feb-2025
+DEP-0081,2025-02-25,Staging,Data Engineering,Success,0,0,0,N/A,Feb-2025
+DEP-0082,2025-02-26,Production,Payments Engineering,Success,0,0,0,N/A,Feb-2025
+DEP-0083,2025-02-26,Production,Payments Engineering,Success,0,0,0,N/A,Feb-2025
+DEP-0084,2025-02-27,Production,Platform Engineering,Success,0,0,0,N/A,Feb-2025
+DEP-0085,2025-03-02,Production,Compliance Engineering,Success,0,0,0,N/A,Feb-2025
+DEP-0086,2025-03-02,Production,Data Engineering,Success,0,0,0,N/A,Feb-2025
+DEP-0087,2025-03-02,Production,Security Engineering,Success,0,0,0,N/A,Feb-2025
+DEP-0088,2025-03-02,Staging,Platform Engineering,Success,0,0,0,N/A,Mar-2025
+DEP-0089,2025-03-02,Production,Data Engineering,Success,0,0,0,N/A,Mar-2025
+DEP-0090,2025-03-03,Production,Data Engineering,Success,0,0,0,N/A,Mar-2025
+DEP-0091,2025-03-03,Production,Security Engineering,Success,0,0,0,N/A,Mar-2025
+DEP-0092,2025-03-04,Staging,Platform Engineering,Success,0,0,0,N/A,Mar-2025
+DEP-0093,2025-03-04,Staging,Security Engineering,Success,0,0,0,N/A,Mar-2025
+DEP-0094,2025-03-05,Staging,Data Engineering,Failed,9,96,27,API version mismatch with Stripe gateway,Mar-2025
+DEP-0095,2025-03-06,Production,Data Engineering,Success,0,0,0,N/A,Mar-2025
+DEP-0096,2025-03-06,Production,Data Engineering,Success,0,0,0,N/A,Mar-2025
+DEP-0097,2025-03-09,Production,Platform Engineering,Success,0,0,0,N/A,Mar-2025
+DEP-0098,2025-03-09,Staging,Security Engineering,Success,0,0,0,N/A,Mar-2025
+DEP-0099,2025-03-09,Production,Payments Engineering,Success,0,0,0,N/A,Mar-2025
+DEP-0100,2025-03-09,Production,Security Engineering,Success,0,0,0,N/A,Mar-2025
+DEP-0101,2025-03-09,Staging,Platform Engineering,Success,0,0,0,N/A,Mar-2025
+DEP-0102,2025-03-10,Production,Security Engineering,Rolled Back,5,95,26,Performance degradation detected post-deployment,Mar-2025
+DEP-0103,2025-03-10,Production,Compliance Engineering,Success,0,0,0,N/A,Mar-2025
+DEP-0104,2025-03-11,Production,Data Engineering,Failed,7,230,39,SSL certificate validation failure,Mar-2025
+DEP-0105,2025-03-11,Production,Security Engineering,Success,0,0,0,N/A,Mar-2025
+DEP-0106,2025-03-12,Staging,Compliance Engineering,Success,0,0,0,N/A,Mar-2025
+DEP-0107,2025-03-13,Staging,Data Engineering,Success,0,0,0,N/A,Mar-2025
+DEP-0108,2025-03-13,Production,Security Engineering,Success,0,0,0,N/A,Mar-2025
+DEP-0109,2025-03-16,Production,Compliance Engineering,Failed,11,195,58,Network timeout during third-party API call,Mar-2025
+DEP-0110,2025-03-16,Staging,Payments Engineering,Success,0,0,0,N/A,Mar-2025
+DEP-0111,2025-03-16,Staging,Security Engineering,Failed,6,167,31,Configuration error in environment variables,Mar-2025
+DEP-0112,2025-03-16,Production,Data Engineering,Success,0,0,0,N/A,Mar-2025
+DEP-0113,2025-03-16,Production,Platform Engineering,Success,0,0,0,N/A,Mar-2025
+DEP-0114,2025-03-17,Production,Platform Engineering,Success,0,0,0,N/A,Mar-2025
+DEP-0115,2025-03-17,Production,Payments Engineering,Success,0,0,0,N/A,Mar-2025
+DEP-0116,2025-03-18,Production,Data Engineering,Success,0,0,0,N/A,Mar-2025
+DEP-0117,2025-03-18,Staging,Data Engineering,Success,0,0,0,N/A,Mar-2025
+DEP-0118,2025-03-19,Production,Data Engineering,Success,0,0,0,N/A,Mar-2025
+DEP-0119,2025-03-20,Staging,Data Engineering,Success,0,0,0,N/A,Mar-2025
+DEP-0120,2025-03-20,Production,Payments Engineering,Failed,6,104,28,Network timeout during third-party API call,Mar-2025
+DEP-0121,2025-03-23,Production,Data Engineering,Success,0,0,0,N/A,Mar-2025
+DEP-0122,2025-03-23,Production,Compliance Engineering,Success,0,0,0,N/A,Mar-2025
+DEP-0123,2025-03-23,Staging,Security Engineering,Success,0,0,0,N/A,Mar-2025
+DEP-0124,2025-03-23,Staging,Data Engineering,Success,0,0,0,N/A,Mar-2025
+DEP-0125,2025-03-23,Production,Compliance Engineering,Success,0,0,0,N/A,Mar-2025
+DEP-0126,2025-03-24,Staging,Platform Engineering,Success,0,0,0,N/A,Mar-2025
+DEP-0127,2025-03-24,Production,Platform Engineering,Success,0,0,0,N/A,Mar-2025
+DEP-0128,2025-03-25,Production,Compliance Engineering,Success,0,0,0,N/A,Mar-2025
+DEP-0129,2025-03-25,Production,Payments Engineering,Success,0,0,0,N/A,Mar-2025
+DEP-0130,2025-03-26,Production,Compliance Engineering,Success,0,0,0,N/A,Mar-2025
+DEP-0131,2025-03-27,Production,Security Engineering,Success,0,0,0,N/A,Mar-2025
+DEP-0132,2025-03-27,Production,Platform Engineering,Success,0,0,0,N/A,Mar-2025
+DEP-0133,2025-03-30,Staging,Data Engineering,Success,0,0,0,N/A,Mar-2025
+DEP-0134,2025-03-30,Production,Compliance Engineering,Rolled Back,7,135,16,Compliance rule violation detected in staging,Mar-2025
+DEP-0135,2025-03-30,Production,Payments Engineering,Success,0,0,0,N/A,Mar-2025
+DEP-0136,2025-04-01,Production,Data Engineering,Success,0,0,0,N/A,Apr-2025
+DEP-0137,2025-04-01,Production,Data Engineering,Success,0,0,0,N/A,Apr-2025
+DEP-0138,2025-04-02,Staging,Platform Engineering,Success,0,0,0,N/A,Apr-2025
+DEP-0139,2025-04-02,Staging,Security Engineering,Success,0,0,0,N/A,Apr-2025
+DEP-0140,2025-04-03,Staging,Data Engineering,Success,0,0,0,N/A,Apr-2025
+DEP-0141,2025-04-06,Staging,Security Engineering,Success,0,0,0,N/A,Apr-2025
+DEP-0142,2025-04-06,Production,Security Engineering,Success,0,0,0,N/A,Apr-2025
+DEP-0143,2025-04-06,Production,Compliance Engineering,Success,0,0,0,N/A,Apr-2025
+DEP-0144,2025-04-06,Production,Security Engineering,Success,0,0,0,N/A,Apr-2025
+DEP-0145,2025-04-06,Staging,Platform Engineering,Failed,5,130,45,Memory overflow in payment processing module,Apr-2025
+DEP-0146,2025-04-07,Production,Payments Engineering,Success,0,0,0,N/A,Apr-2025
+DEP-0147,2025-04-08,Staging,Payments Engineering,Success,0,0,0,N/A,Apr-2025
+DEP-0148,2025-04-08,Production,Compliance Engineering,Success,0,0,0,N/A,Apr-2025
+DEP-0149,2025-04-09,Production,Platform Engineering,Success,0,0,0,N/A,Apr-2025
+DEP-0150,2025-04-09,Production,Platform Engineering,Success,0,0,0,N/A,Apr-2025
+DEP-0151,2025-04-10,Production,Data Engineering,Success,0,0,0,N/A,Apr-2025
+DEP-0152,2025-04-13,Production,Data Engineering,Success,0,0,0,N/A,Apr-2025
+DEP-0153,2025-04-13,Production,Data Engineering,Success,0,0,0,N/A,Apr-2025
+DEP-0154,2025-04-13,Production,Compliance Engineering,Success,0,0,0,N/A,Apr-2025
+DEP-0155,2025-04-13,Production,Payments Engineering,Success,0,0,0,N/A,Apr-2025
+DEP-0156,2025-04-13,Staging,Payments Engineering,Failed,1,150,10,Database migration timeout,Apr-2025
+DEP-0157,2025-04-14,Production,Compliance Engineering,Success,0,0,0,N/A,Apr-2025
+DEP-0158,2025-04-15,Production,Payments Engineering,Rolled Back,4,23,14,Critical bug found in payment reconciliation,Apr-2025
+DEP-0159,2025-04-15,Production,Payments Engineering,Success,0,0,0,N/A,Apr-2025
+DEP-0160,2025-04-16,Production,Compliance Engineering,Success,0,0,0,N/A,Apr-2025
+DEP-0161,2025-04-16,Production,Compliance Engineering,Success,0,0,0,N/A,Apr-2025
+DEP-0162,2025-04-17,Production,Compliance Engineering,Success,0,0,0,N/A,Apr-2025
+DEP-0163,2025-04-20,Production,Compliance Engineering,Success,0,0,0,N/A,Apr-2025
+DEP-0164,2025-04-20,Production,Platform Engineering,Success,0,0,0,N/A,Apr-2025
+DEP-0165,2025-04-20,Production,Payments Engineering,Success,0,0,0,N/A,Apr-2025
+DEP-0166,2025-04-20,Staging,Data Engineering,Success,0,0,0,N/A,Apr-2025
+DEP-0167,2025-04-20,Production,Compliance Engineering,Success,0,0,0,N/A,Apr-2025
+DEP-0168,2025-04-21,Production,Payments Engineering,Success,0,0,0,N/A,Apr-2025
+DEP-0169,2025-04-22,Production,Security Engineering,Success,0,0,0,N/A,Apr-2025
+DEP-0170,2025-04-22,Production,Data Engineering,Success,0,0,0,N/A,Apr-2025
+DEP-0171,2025-04-23,Production,Platform Engineering,Success,0,0,0,N/A,Apr-2025
+DEP-0172,2025-04-23,Production,Security Engineering,Success,0,0,0,N/A,Apr-2025
+DEP-0173,2025-04-24,Staging,Security Engineering,Success,0,0,0,N/A,Apr-2025
+DEP-0174,2025-04-27,Production,Data Engineering,Success,0,0,0,N/A,Apr-2025
+DEP-0175,2025-04-27,Staging,Data Engineering,Success,0,0,0,N/A,Apr-2025
+DEP-0176,2025-04-27,Production,Data Engineering,Success,0,0,0,N/A,Apr-2025
+DEP-0177,2025-04-27,Staging,Compliance Engineering,Success,0,0,0,N/A,Apr-2025
+DEP-0178,2025-04-27,Production,Payments Engineering,Success,0,0,0,N/A,Apr-2025
+DEP-0179,2025-04-28,Production,Platform Engineering,Failed,5,17,16,Unhandled exception in transaction routing logic,Apr-2025
+DEP-0180,2025-05-01,Production,Security Engineering,Success,0,0,0,N/A,May-2025
+DEP-0181,2025-05-01,Production,Security Engineering,Success,0,0,0,N/A,May-2025
+DEP-0182,2025-05-04,Staging,Data Engineering,Success,0,0,0,N/A,May-2025
+DEP-0183,2025-05-04,Production,Platform Engineering,Success,0,0,0,N/A,May-2025
+DEP-0184,2025-05-04,Staging,Platform Engineering,Success,0,0,0,N/A,May-2025
+DEP-0185,2025-05-04,Staging,Data Engineering,Success,0,0,0,N/A,May-2025
+DEP-0186,2025-05-04,Production,Platform Engineering,Success,0,0,0,N/A,May-2025
+DEP-0187,2025-05-05,Staging,Compliance Engineering,Success,0,0,0,N/A,May-2025
+DEP-0188,2025-05-05,Production,Platform Engineering,Success,0,0,0,N/A,May-2025
+DEP-0189,2025-05-06,Production,Payments Engineering,Success,0,0,0,N/A,May-2025
+DEP-0190,2025-05-07,Production,Security Engineering,Success,0,0,0,N/A,May-2025
+DEP-0191,2025-05-07,Production,Data Engineering,Success,0,0,0,N/A,May-2025
+DEP-0192,2025-05-08,Production,Security Engineering,Success,0,0,0,N/A,May-2025
+DEP-0193,2025-05-08,Staging,Data Engineering,Success,0,0,0,N/A,May-2025
+DEP-0194,2025-05-11,Production,Security Engineering,Success,0,0,0,N/A,May-2025
+DEP-0195,2025-05-11,Production,Data Engineering,Success,0,0,0,N/A,May-2025
+DEP-0196,2025-05-11,Staging,Payments Engineering,Success,0,0,0,N/A,May-2025
+DEP-0197,2025-05-11,Production,Security Engineering,Success,0,0,0,N/A,May-2025
+DEP-0198,2025-05-11,Production,Data Engineering,Success,0,0,0,N/A,May-2025
+DEP-0199,2025-05-12,Production,Payments Engineering,Success,0,0,0,N/A,May-2025
+DEP-0200,2025-05-13,Production,Payments Engineering,Success,0,0,0,N/A,May-2025
+DEP-0201,2025-05-13,Production,Payments Engineering,Success,0,0,0,N/A,May-2025
+DEP-0202,2025-05-14,Staging,Platform Engineering,Success,0,0,0,N/A,May-2025
+DEP-0203,2025-05-15,Production,Payments Engineering,Success,0,0,0,N/A,May-2025
+DEP-0204,2025-05-15,Staging,Security Engineering,Success,0,0,0,N/A,May-2025
+DEP-0205,2025-05-18,Production,Compliance Engineering,Success,0,0,0,N/A,May-2025
+DEP-0206,2025-05-18,Production,Data Engineering,Success,0,0,0,N/A,May-2025
+DEP-0207,2025-05-18,Production,Payments Engineering,Success,0,0,0,N/A,May-2025
+DEP-0208,2025-05-18,Production,Data Engineering,Failed,2,51,2,Dependency conflict in authentication service,May-2025
+DEP-0209,2025-05-18,Staging,Payments Engineering,Success,0,0,0,N/A,May-2025
+DEP-0210,2025-05-19,Production,Compliance Engineering,Success,0,0,0,N/A,May-2025
+DEP-0211,2025-05-19,Production,Payments Engineering,Rolled Back,2,46,8,Critical bug found in payment reconciliation,May-2025
+DEP-0212,2025-05-20,Production,Data Engineering,Failed,6,42,34,API version mismatch with Stripe gateway,May-2025
+DEP-0213,2025-05-21,Staging,Security Engineering,Success,0,0,0,N/A,May-2025
+DEP-0214,2025-05-21,Production,Platform Engineering,Success,0,0,0,N/A,May-2025
+DEP-0215,2025-05-22,Production,Security Engineering,Success,0,0,0,N/A,May-2025
+DEP-0216,2025-05-22,Production,Platform Engineering,Success,0,0,0,N/A,May-2025
+DEP-0217,2025-05-25,Production,Platform Engineering,Failed,4,59,21,Incompatible schema change in client data model,May-2025
+DEP-0218,2025-05-25,Staging,Compliance Engineering,Success,0,0,0,N/A,May-2025
+DEP-0219,2025-05-25,Production,Payments Engineering,Success,0,0,0,N/A,May-2025
+DEP-0220,2025-05-25,Production,Compliance Engineering,Success,0,0,0,N/A,May-2025
+DEP-0221,2025-05-25,Production,Payments Engineering,Success,0,0,0,N/A,May-2025
+DEP-0222,2025-05-26,Production,Security Engineering,Success,0,0,0,N/A,May-2025
+DEP-0223,2025-05-27,Production,Platform Engineering,Success,0,0,0,N/A,May-2025
+DEP-0224,2025-05-27,Production,Payments Engineering,Success,0,0,0,N/A,May-2025
+DEP-0225,2025-05-28,Production,Compliance Engineering,Success,0,0,0,N/A,May-2025

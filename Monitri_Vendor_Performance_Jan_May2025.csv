@@ -1,0 +1,26 @@
+Vendor_ID,Vendor_Name,Service_Type,Contracted_SLA_%,Actual_Uptime_%,Incident_Count,Monthly_Cost_USD,SLA_Breached,Performance_Score_1to10,Month
+VND-001,Stripe,Payment Processing,99.95%,99.97%,1,"$84,200",No,9,Jan-2025
+VND-001,Stripe,Payment Processing,99.95%,99.96%,2,"$82,500",No,9,Feb-2025
+VND-001,Stripe,Payment Processing,99.95%,98.72%,14,"$82,300",Yes,3,Mar-2025
+VND-001,Stripe,Payment Processing,99.95%,99.91%,4,"$82,900",Yes,7,Apr-2025
+VND-001,Stripe,Payment Processing,99.95%,99.93%,3,"$87,200",Yes,8,May-2025
+VND-002,AWS,Cloud Infrastructure,99.95%,99.99%,0,"$47,400",No,10,Jan-2025
+VND-002,AWS,Cloud Infrastructure,99.95%,99.94%,3,"$48,900",Yes,8,Feb-2025
+VND-002,AWS,Cloud Infrastructure,99.95%,99.98%,1,"$48,200",No,10,Mar-2025
+VND-002,AWS,Cloud Infrastructure,99.95%,99.99%,0,"$50,100",No,10,Apr-2025
+VND-002,AWS,Cloud Infrastructure,99.95%,99.99%,0,"$47,900",No,10,May-2025
+VND-003,Jumio,KYC / Identity Verification,99.9%,99.92%,3,"$22,200",No,8,Jan-2025
+VND-003,Jumio,KYC / Identity Verification,99.9%,99.88%,5,"$21,400",Yes,7,Feb-2025
+VND-003,Jumio,KYC / Identity Verification,99.9%,99.85%,6,"$22,900",Yes,6,Mar-2025
+VND-003,Jumio,KYC / Identity Verification,99.9%,99.79%,8,"$21,700",Yes,5,Apr-2025
+VND-003,Jumio,KYC / Identity Verification,99.9%,99.83%,7,"$21,800",Yes,6,May-2025
+VND-004,Sardine,Fraud Detection,99.9%,99.93%,2,"$29,900",No,9,Jan-2025
+VND-004,Sardine,Fraud Detection,99.9%,99.94%,2,"$31,500",No,9,Feb-2025
+VND-004,Sardine,Fraud Detection,99.9%,99.91%,3,"$32,100",No,8,Mar-2025
+VND-004,Sardine,Fraud Detection,99.9%,99.92%,2,"$30,500",No,9,Apr-2025
+VND-004,Sardine,Fraud Detection,99.9%,99.93%,2,"$32,400",No,9,May-2025
+VND-005,ComplyAdvantage,Compliance Screening,99.85%,99.88%,2,"$18,500",No,8,Jan-2025
+VND-005,ComplyAdvantage,Compliance Screening,99.85%,99.87%,3,"$17,900",No,8,Feb-2025
+VND-005,ComplyAdvantage,Compliance Screening,99.85%,99.86%,3,"$17,800",No,8,Mar-2025
+VND-005,ComplyAdvantage,Compliance Screening,99.85%,99.71%,9,"$17,600",Yes,5,Apr-2025
+VND-005,ComplyAdvantage,Compliance Screening,99.85%,99.82%,5,"$17,100",Yes,7,May-2025

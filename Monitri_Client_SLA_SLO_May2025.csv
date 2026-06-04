@@ -1,0 +1,351 @@
+Client_ID,Client_Name,Region,Client_Type,Contracted_Uptime_%,Actual_Uptime_%,SLA_Breached,Breach_Severity,Month
+CLT-0001,First National Bank,United States,Regional Bank,99.9%,99.95%,No,None,May-2025
+CLT-0002,Liberty Bank,United States,Regional Bank,99.9%,99.6%,Yes,Medium,May-2025
+CLT-0003,Heritage Bank,United States,Regional Bank,99.9%,99.98%,No,None,May-2025
+CLT-0004,Pinnacle Bank,United States,Regional Bank,99.9%,99.91%,No,None,May-2025
+CLT-0005,Summit Bank,United States,Regional Bank,99.9%,99.96%,No,None,May-2025
+CLT-0006,Meridian Bank,United States,Regional Bank,99.9%,99.98%,No,None,May-2025
+CLT-0007,Coastal Bank,United States,Regional Bank,99.9%,99.91%,No,None,May-2025
+CLT-0008,Frontier Bank,United States,Regional Bank,99.9%,99.94%,No,None,May-2025
+CLT-0009,Keystone Bank,United States,Regional Bank,99.9%,99.92%,No,None,May-2025
+CLT-0010,Patriot Bank,United States,Regional Bank,99.9%,99.99%,No,None,May-2025
+CLT-0011,Horizon Bank,United States,Regional Bank,99.9%,99.92%,No,None,May-2025
+CLT-0012,Capital One Bank,United States,Regional Bank,99.9%,99.95%,No,None,May-2025
+CLT-0013,Nexus Bank,United States,Regional Bank,99.9%,99.97%,No,None,May-2025
+CLT-0014,Vanguard Bank,United States,Regional Bank,99.9%,99.95%,No,None,May-2025
+CLT-0015,Sterling Bank,United States,Regional Bank,99.9%,99.92%,No,None,May-2025
+CLT-0016,Alliance Bank,United States,Regional Bank,99.9%,99.99%,No,None,May-2025
+CLT-0017,Centennial Bank,United States,Regional Bank,99.9%,99.97%,No,None,May-2025
+CLT-0018,Bridgepoint Bank,United States,Regional Bank,99.9%,99.92%,No,None,May-2025
+CLT-0019,Cornerstone Bank,United States,Regional Bank,99.9%,99.91%,No,None,May-2025
+CLT-0020,Beacon Bank,United States,Regional Bank,99.9%,99.94%,No,None,May-2025
+CLT-0021,Crestview Bank,United States,Regional Bank,99.9%,99.72%,Yes,Medium,May-2025
+CLT-0022,Lakewood Bank,United States,Regional Bank,99.9%,99.94%,No,None,May-2025
+CLT-0023,Riverside Bank,United States,Regional Bank,99.9%,99.91%,No,None,May-2025
+CLT-0024,Northgate Bank,United States,Regional Bank,99.9%,99.94%,No,None,May-2025
+CLT-0025,Southbrook Bank,United States,Regional Bank,99.9%,99.98%,No,None,May-2025
+CLT-0026,Eastpoint Bank,United States,Regional Bank,99.9%,99.88%,Yes,Medium,May-2025
+CLT-0027,Westfield Bank,United States,Regional Bank,99.9%,99.91%,No,None,May-2025
+CLT-0028,Clearwater Bank,United States,Regional Bank,99.9%,99.94%,No,None,May-2025
+CLT-0029,Springdale Bank,United States,Regional Bank,99.9%,99.96%,No,None,May-2025
+CLT-0030,Oakwood Bank,United States,Regional Bank,99.9%,99.76%,Yes,Medium,May-2025
+CLT-0031,Community Bank 001,United States,Community Bank,99.5%,99.17%,Yes,High,May-2025
+CLT-0032,Community Bank 002,United States,Community Bank,99.5%,99.49%,Yes,Medium,May-2025
+CLT-0033,Community Bank 003,United States,Community Bank,99.5%,99.58%,No,None,May-2025
+CLT-0034,Community Bank 004,United States,Community Bank,99.5%,99.59%,No,None,May-2025
+CLT-0035,Community Bank 005,United States,Community Bank,99.5%,98.74%,Yes,Critical,May-2025
+CLT-0036,Community Bank 006,United States,Community Bank,99.5%,99.49%,Yes,Medium,May-2025
+CLT-0037,Community Bank 007,United States,Community Bank,99.5%,99.53%,No,None,May-2025
+CLT-0038,Community Bank 008,United States,Community Bank,99.5%,99.52%,No,None,May-2025
+CLT-0039,Community Bank 009,United States,Community Bank,99.5%,99.57%,No,None,May-2025
+CLT-0040,Community Bank 010,United States,Community Bank,99.5%,99.52%,No,None,May-2025
+CLT-0041,Community Bank 011,United States,Community Bank,99.5%,99.54%,No,None,May-2025
+CLT-0042,Community Bank 012,United States,Community Bank,99.5%,99.09%,Yes,High,May-2025
+CLT-0043,Community Bank 013,United States,Community Bank,99.5%,99.58%,No,None,May-2025
+CLT-0044,Community Bank 014,United States,Community Bank,99.5%,99.57%,No,None,May-2025
+CLT-0045,Community Bank 015,United States,Community Bank,99.5%,99.54%,No,None,May-2025
+CLT-0046,Community Bank 016,United States,Community Bank,99.5%,99.56%,No,None,May-2025
+CLT-0047,Community Bank 017,United States,Community Bank,99.5%,99.57%,No,None,May-2025
+CLT-0048,Community Bank 018,United States,Community Bank,99.5%,99.53%,No,None,May-2025
+CLT-0049,Community Bank 019,United States,Community Bank,99.5%,99.52%,No,None,May-2025
+CLT-0050,Community Bank 020,United States,Community Bank,99.5%,99.57%,No,None,May-2025
+CLT-0051,Community Bank 021,United States,Community Bank,99.5%,99.54%,No,None,May-2025
+CLT-0052,Community Bank 022,United States,Community Bank,99.5%,99.51%,No,None,May-2025
+CLT-0053,Community Bank 023,United States,Community Bank,99.5%,99.55%,No,None,May-2025
+CLT-0054,Community Bank 024,United States,Community Bank,99.5%,99.53%,No,None,May-2025
+CLT-0055,Community Bank 025,United States,Community Bank,99.5%,99.58%,No,None,May-2025
+CLT-0056,Community Bank 026,United States,Community Bank,99.5%,99.54%,No,None,May-2025
+CLT-0057,Community Bank 027,United States,Community Bank,99.5%,99.58%,No,None,May-2025
+CLT-0058,Community Bank 028,United States,Community Bank,99.5%,99.58%,No,None,May-2025
+CLT-0059,Community Bank 029,United States,Community Bank,99.5%,99.53%,No,None,May-2025
+CLT-0060,Community Bank 030,United States,Community Bank,99.5%,99.56%,No,None,May-2025
+CLT-0061,Community Bank 031,United States,Community Bank,99.5%,99.54%,No,None,May-2025
+CLT-0062,Community Bank 032,United States,Community Bank,99.5%,98.28%,Yes,Critical,May-2025
+CLT-0063,Community Bank 033,United States,Community Bank,99.5%,99.52%,No,None,May-2025
+CLT-0064,Community Bank 034,United States,Community Bank,99.5%,99.57%,No,None,May-2025
+CLT-0065,Community Bank 035,United States,Community Bank,99.5%,99.54%,No,None,May-2025
+CLT-0066,Community Bank 036,United States,Community Bank,99.5%,99.55%,No,None,May-2025
+CLT-0067,Community Bank 037,United States,Community Bank,99.5%,99.56%,No,None,May-2025
+CLT-0068,Community Bank 038,United States,Community Bank,99.5%,99.58%,No,None,May-2025
+CLT-0069,Community Bank 039,United States,Community Bank,99.5%,99.54%,No,None,May-2025
+CLT-0070,Community Bank 040,United States,Community Bank,99.5%,99.51%,No,None,May-2025
+CLT-0071,Community Bank 041,United States,Community Bank,99.5%,99.58%,No,None,May-2025
+CLT-0072,Community Bank 042,United States,Community Bank,99.5%,99.53%,No,None,May-2025
+CLT-0073,Community Bank 043,United States,Community Bank,99.5%,99.56%,No,None,May-2025
+CLT-0074,Community Bank 044,United States,Community Bank,99.5%,99.59%,No,None,May-2025
+CLT-0075,Community Bank 045,United States,Community Bank,99.5%,99.51%,No,None,May-2025
+CLT-0076,Community Bank 046,United States,Community Bank,99.5%,99.56%,No,None,May-2025
+CLT-0077,Community Bank 047,United States,Community Bank,99.5%,99.54%,No,None,May-2025
+CLT-0078,Community Bank 048,United States,Community Bank,99.5%,99.57%,No,None,May-2025
+CLT-0079,Community Bank 049,United States,Community Bank,99.5%,99.54%,No,None,May-2025
+CLT-0080,Community Bank 050,United States,Community Bank,99.5%,99.48%,Yes,High,May-2025
+CLT-0081,CU Financial 001,United States,Credit Union,99.5%,99.5%,Yes,Medium,May-2025
+CLT-0082,CU Financial 002,United States,Credit Union,99.5%,99.58%,No,None,May-2025
+CLT-0083,CU Financial 003,United States,Credit Union,99.5%,99.53%,No,None,May-2025
+CLT-0084,CU Financial 004,United States,Credit Union,99.5%,99.51%,No,None,May-2025
+CLT-0085,CU Financial 005,United States,Credit Union,99.5%,99.21%,Yes,High,May-2025
+CLT-0086,CU Financial 006,United States,Credit Union,99.5%,99.55%,No,None,May-2025
+CLT-0087,CU Financial 007,United States,Credit Union,99.5%,99.57%,No,None,May-2025
+CLT-0088,CU Financial 008,United States,Credit Union,99.5%,99.56%,No,None,May-2025
+CLT-0089,CU Financial 009,United States,Credit Union,99.5%,99.59%,No,None,May-2025
+CLT-0090,CU Financial 010,United States,Credit Union,99.5%,99.57%,No,None,May-2025
+CLT-0091,CU Financial 011,United States,Credit Union,99.5%,99.53%,No,None,May-2025
+CLT-0092,CU Financial 012,United States,Credit Union,99.5%,99.54%,No,None,May-2025
+CLT-0093,CU Financial 013,United States,Credit Union,99.5%,99.59%,No,None,May-2025
+CLT-0094,CU Financial 014,United States,Credit Union,99.5%,99.58%,No,None,May-2025
+CLT-0095,CU Financial 015,United States,Credit Union,99.5%,99.56%,No,None,May-2025
+CLT-0096,CU Financial 016,United States,Credit Union,99.5%,99.49%,Yes,Medium,May-2025
+CLT-0097,CU Financial 017,United States,Credit Union,99.5%,99.52%,No,None,May-2025
+CLT-0098,CU Financial 018,United States,Credit Union,99.5%,99.44%,Yes,High,May-2025
+CLT-0099,CU Financial 019,United States,Credit Union,99.5%,99.55%,No,None,May-2025
+CLT-0100,CU Financial 020,United States,Credit Union,99.5%,99.56%,No,None,May-2025
+CLT-0101,CU Financial 021,United States,Credit Union,99.5%,99.54%,No,None,May-2025
+CLT-0102,CU Financial 022,United States,Credit Union,99.5%,99.57%,No,None,May-2025
+CLT-0103,CU Financial 023,United States,Credit Union,99.5%,99.55%,No,None,May-2025
+CLT-0104,CU Financial 024,United States,Credit Union,99.5%,99.53%,No,None,May-2025
+CLT-0105,CU Financial 025,United States,Credit Union,99.5%,99.49%,Yes,Medium,May-2025
+CLT-0106,CU Financial 026,United States,Credit Union,99.5%,99.54%,No,None,May-2025
+CLT-0107,CU Financial 027,United States,Credit Union,99.5%,99.57%,No,None,May-2025
+CLT-0108,CU Financial 028,United States,Credit Union,99.5%,99.52%,No,None,May-2025
+CLT-0109,CU Financial 029,United States,Credit Union,99.5%,99.56%,No,None,May-2025
+CLT-0110,CU Financial 030,United States,Credit Union,99.5%,99.54%,No,None,May-2025
+CLT-0111,CU Financial 031,United States,Credit Union,99.5%,99.58%,No,None,May-2025
+CLT-0112,CU Financial 032,United States,Credit Union,99.5%,99.15%,Yes,High,May-2025
+CLT-0113,CU Financial 033,United States,Credit Union,99.5%,99.53%,No,None,May-2025
+CLT-0114,CU Financial 034,United States,Credit Union,99.5%,99.57%,No,None,May-2025
+CLT-0115,CU Financial 035,United States,Credit Union,99.5%,99.56%,No,None,May-2025
+CLT-0116,CU Financial 036,United States,Credit Union,99.5%,99.54%,No,None,May-2025
+CLT-0117,CU Financial 037,United States,Credit Union,99.5%,99.55%,No,None,May-2025
+CLT-0118,CU Financial 038,United States,Credit Union,99.5%,99.56%,No,None,May-2025
+CLT-0119,CU Financial 039,United States,Credit Union,99.5%,99.55%,No,None,May-2025
+CLT-0120,CU Financial 040,United States,Credit Union,99.5%,99.57%,No,None,May-2025
+CLT-0121,CU Financial 041,United States,Credit Union,99.5%,99.47%,Yes,High,May-2025
+CLT-0122,CU Financial 042,United States,Credit Union,99.5%,99.57%,No,None,May-2025
+CLT-0123,CU Financial 043,United States,Credit Union,99.5%,99.49%,Yes,Medium,May-2025
+CLT-0124,CU Financial 044,United States,Credit Union,99.5%,99.53%,No,None,May-2025
+CLT-0125,CU Financial 045,United States,Credit Union,99.5%,99.56%,No,None,May-2025
+CLT-0126,CU Financial 046,United States,Credit Union,99.5%,99.56%,No,None,May-2025
+CLT-0127,CU Financial 047,United States,Credit Union,99.5%,99.5%,Yes,Medium,May-2025
+CLT-0128,CU Financial 048,United States,Credit Union,99.5%,99.59%,No,None,May-2025
+CLT-0129,CU Financial 049,United States,Credit Union,99.5%,99.53%,No,None,May-2025
+CLT-0130,CU Financial 050,United States,Credit Union,99.5%,99.53%,No,None,May-2025
+CLT-0131,CU Financial 051,United States,Credit Union,99.5%,99.57%,No,None,May-2025
+CLT-0132,CU Financial 052,United States,Credit Union,99.5%,99.52%,No,None,May-2025
+CLT-0133,CU Financial 053,United States,Credit Union,99.5%,99.51%,No,None,May-2025
+CLT-0134,CU Financial 054,United States,Credit Union,99.5%,99.48%,Yes,High,May-2025
+CLT-0135,CU Financial 055,United States,Credit Union,99.5%,99.56%,No,None,May-2025
+CLT-0136,CU Financial 056,United States,Credit Union,99.5%,99.49%,Yes,Medium,May-2025
+CLT-0137,CU Financial 057,United States,Credit Union,99.5%,99.55%,No,None,May-2025
+CLT-0138,CU Financial 058,United States,Credit Union,99.5%,99.58%,No,None,May-2025
+CLT-0139,CU Financial 059,United States,Credit Union,99.5%,99.56%,No,None,May-2025
+CLT-0140,CU Financial 060,United States,Credit Union,99.5%,99.57%,No,None,May-2025
+CLT-0141,Zyla,United States,Neobank,99.9%,99.94%,No,None,May-2025
+CLT-0142,Finvo,United States,Neobank,99.9%,99.94%,No,None,May-2025
+CLT-0143,Cashly,United States,Neobank,99.9%,99.92%,No,None,May-2025
+CLT-0144,Nuvlo,United States,Neobank,99.9%,99.97%,No,None,May-2025
+CLT-0145,Payvex,United States,Neobank,99.9%,99.98%,No,None,May-2025
+CLT-0146,Banksy,United States,Neobank,99.9%,99.98%,No,None,May-2025
+CLT-0147,Fluxpay,United States,Neobank,99.9%,98.88%,Yes,Critical,May-2025
+CLT-0148,Kredivo,United States,Neobank,99.9%,99.97%,No,None,May-2025
+CLT-0149,Monflow,United States,Neobank,99.9%,99.93%,No,None,May-2025
+CLT-0150,Swiftfin,United States,Neobank,99.9%,99.97%,No,None,May-2025
+CLT-0151,Vaultly,United States,Neobank,99.9%,99.97%,No,None,May-2025
+CLT-0152,Paylane,United States,Neobank,99.9%,98.46%,Yes,Critical,May-2025
+CLT-0153,Kredlo,United States,Neobank,99.9%,99.95%,No,None,May-2025
+CLT-0154,Bankora,United States,Neobank,99.9%,99.98%,No,None,May-2025
+CLT-0155,Finstra,United States,Neobank,99.9%,99.92%,No,None,May-2025
+CLT-0156,Paynovo,United States,Neobank,99.9%,99.92%,No,None,May-2025
+CLT-0157,Zestpay,United States,Neobank,99.9%,99.95%,No,None,May-2025
+CLT-0158,Nubank US,United States,Neobank,99.9%,99.95%,No,None,May-2025
+CLT-0159,Chive,United States,Neobank,99.9%,99.95%,No,None,May-2025
+CLT-0160,Sprout Finance,United States,Neobank,99.9%,99.94%,No,None,May-2025
+CLT-0161,Bloom Bank,United States,Neobank,99.9%,99.79%,Yes,Medium,May-2025
+CLT-0162,Spark Pay,United States,Neobank,99.9%,98.44%,Yes,Critical,May-2025
+CLT-0163,Wave Finance,United States,Neobank,99.9%,99.98%,No,None,May-2025
+CLT-0164,Bolt Bank,United States,Neobank,99.9%,99.98%,No,None,May-2025
+CLT-0165,NeoBank 001,United States,Neobank,99.9%,99.94%,No,None,May-2025
+CLT-0166,NeoBank 002,United States,Neobank,99.9%,99.98%,No,None,May-2025
+CLT-0167,NeoBank 003,United States,Neobank,99.9%,99.95%,No,None,May-2025
+CLT-0168,NeoBank 004,United States,Neobank,99.9%,99.92%,No,None,May-2025
+CLT-0169,NeoBank 005,United States,Neobank,99.9%,99.98%,No,None,May-2025
+CLT-0170,NeoBank 006,United States,Neobank,99.9%,99.95%,No,None,May-2025
+CLT-0171,NeoBank 007,United States,Neobank,99.9%,99.97%,No,None,May-2025
+CLT-0172,NeoBank 008,United States,Neobank,99.9%,99.98%,No,None,May-2025
+CLT-0173,NeoBank 009,United States,Neobank,99.9%,99.93%,No,None,May-2025
+CLT-0174,NeoBank 010,United States,Neobank,99.9%,99.97%,No,None,May-2025
+CLT-0175,NeoBank 011,United States,Neobank,99.9%,99.95%,No,None,May-2025
+CLT-0176,NeoBank 012,United States,Neobank,99.9%,99.93%,No,None,May-2025
+CLT-0177,NeoBank 013,United States,Neobank,99.9%,99.95%,No,None,May-2025
+CLT-0178,NeoBank 014,United States,Neobank,99.9%,99.97%,No,None,May-2025
+CLT-0179,NeoBank 015,United States,Neobank,99.9%,99.93%,No,None,May-2025
+CLT-0180,NeoBank 016,United States,Neobank,99.9%,99.94%,No,None,May-2025
+CLT-0181,NeoBank 017,United States,Neobank,99.9%,99.98%,No,None,May-2025
+CLT-0182,NeoBank 018,United States,Neobank,99.9%,99.92%,No,None,May-2025
+CLT-0183,NeoBank 019,United States,Neobank,99.9%,99.92%,No,None,May-2025
+CLT-0184,NeoBank 020,United States,Neobank,99.9%,99.94%,No,None,May-2025
+CLT-0185,NeoBank 021,United States,Neobank,99.9%,99.92%,No,None,May-2025
+CLT-0186,NeoBank 022,United States,Neobank,99.9%,99.93%,No,None,May-2025
+CLT-0187,NeoBank 023,United States,Neobank,99.9%,99.94%,No,None,May-2025
+CLT-0188,NeoBank 024,United States,Neobank,99.9%,99.94%,No,None,May-2025
+CLT-0189,NeoBank 025,United States,Neobank,99.9%,99.95%,No,None,May-2025
+CLT-0190,NeoBank 026,United States,Neobank,99.9%,99.91%,No,None,May-2025
+CLT-0191,PayStream Inc,United States,Fintech,99.9%,99.98%,No,None,May-2025
+CLT-0192,FinBridge Corp,United States,Fintech,99.9%,99.94%,No,None,May-2025
+CLT-0193,ClearPay Technologies,United States,Fintech,99.9%,99.97%,No,None,May-2025
+CLT-0194,TrustFlow,United States,Fintech,99.9%,99.99%,No,None,May-2025
+CLT-0195,SmartLedger,United States,Fintech,99.9%,99.51%,Yes,Medium,May-2025
+CLT-0196,DataPay Solutions,United States,Fintech,99.9%,99.98%,No,None,May-2025
+CLT-0197,NovaPay,United States,Fintech,99.9%,99.96%,No,None,May-2025
+CLT-0198,LendCore,United States,Fintech,99.9%,99.95%,No,None,May-2025
+CLT-0199,PayAxis,United States,Fintech,99.9%,99.99%,No,None,May-2025
+CLT-0200,FinSync,United States,Fintech,99.9%,99.15%,Yes,High,May-2025
+CLT-0201,CashCore Technologies,United States,Fintech,99.9%,99.94%,No,None,May-2025
+CLT-0202,PayNexus,United States,Fintech,99.9%,99.98%,No,None,May-2025
+CLT-0203,LoanBridge,United States,Fintech,99.9%,99.41%,Yes,High,May-2025
+CLT-0204,FinVault,United States,Fintech,99.9%,99.95%,No,None,May-2025
+CLT-0205,TechPay Corp,United States,Fintech,99.9%,99.97%,No,None,May-2025
+CLT-0206,PayEdge,United States,Fintech,99.9%,99.97%,No,None,May-2025
+CLT-0207,FinLink Solutions,United States,Fintech,99.9%,99.85%,Yes,Medium,May-2025
+CLT-0208,MoneyBridge,United States,Fintech,99.9%,99.95%,No,None,May-2025
+CLT-0209,PayCore,United States,Fintech,99.9%,99.93%,No,None,May-2025
+CLT-0210,FinEdge Technologies,United States,Fintech,99.9%,99.95%,No,None,May-2025
+CLT-0211,ClearLend,United States,Fintech,99.9%,99.94%,No,None,May-2025
+CLT-0212,SmartPay Inc,United States,Fintech,99.9%,99.96%,No,None,May-2025
+CLT-0213,PayFusion,United States,Fintech,99.9%,99.97%,No,None,May-2025
+CLT-0214,FinCore,United States,Fintech,99.9%,99.97%,No,None,May-2025
+CLT-0215,FinTech Ventures 01,United States,Fintech,99.9%,99.41%,Yes,High,May-2025
+CLT-0216,FinTech Ventures 02,United States,Fintech,99.9%,99.98%,No,None,May-2025
+CLT-0217,FinTech Ventures 03,United States,Fintech,99.9%,98.97%,Yes,Critical,May-2025
+CLT-0218,FinTech Ventures 04,United States,Fintech,99.9%,99.95%,No,None,May-2025
+CLT-0219,FinTech Ventures 05,United States,Fintech,99.9%,99.98%,No,None,May-2025
+CLT-0220,FinTech Ventures 06,United States,Fintech,99.9%,99.96%,No,None,May-2025
+CLT-0221,Barclays Digital,United Kingdom,Digital Bank,99.9%,99.96%,No,None,May-2025
+CLT-0222,Lloyds FinTech,United Kingdom,Challenger Bank,99.9%,99.92%,No,None,May-2025
+CLT-0223,NatWest Innovation,United Kingdom,Challenger Bank,99.9%,99.94%,No,None,May-2025
+CLT-0224,HSBC Digital,United Kingdom,Challenger Bank,99.9%,99.98%,No,None,May-2025
+CLT-0225,Revolut Business,United Kingdom,Digital Bank,99.9%,99.92%,No,None,May-2025
+CLT-0226,Monzo Business,United Kingdom,Digital Bank,99.9%,99.93%,No,None,May-2025
+CLT-0227,Starling Enterprise,United Kingdom,Challenger Bank,99.9%,99.94%,No,None,May-2025
+CLT-0228,OakNorth,United Kingdom,Challenger Bank,99.9%,99.95%,No,None,May-2025
+CLT-0229,Tandem Bank,United Kingdom,Challenger Bank,99.9%,99.94%,No,None,May-2025
+CLT-0230,Atom Business,United Kingdom,Digital Bank,99.9%,99.98%,No,None,May-2025
+CLT-0231,Tide Business,United Kingdom,Digital Bank,99.9%,99.93%,No,None,May-2025
+CLT-0232,Coconut Finance,United Kingdom,Challenger Bank,99.9%,99.99%,No,None,May-2025
+CLT-0233,Plum Business,United Kingdom,Digital Bank,99.9%,99.21%,Yes,High,May-2025
+CLT-0234,Chip Enterprise,United Kingdom,Challenger Bank,99.9%,99.98%,No,None,May-2025
+CLT-0235,Dozens Business,United Kingdom,Digital Bank,99.9%,99.95%,No,None,May-2025
+CLT-0236,Cashplus Pro,United Kingdom,Fintech,99.9%,99.97%,No,None,May-2025
+CLT-0237,Anna Money,United Kingdom,Challenger Bank,99.9%,99.91%,No,None,May-2025
+CLT-0238,Countingup,United Kingdom,Fintech,99.9%,99.99%,No,None,May-2025
+CLT-0239,Mettle Business,United Kingdom,Challenger Bank,99.9%,99.93%,No,None,May-2025
+CLT-0240,Zempler Bank,United Kingdom,Challenger Bank,99.9%,99.92%,No,None,May-2025
+CLT-0241,Griffin Bank,United Kingdom,Fintech,99.9%,99.99%,No,None,May-2025
+CLT-0242,Allica Bank,United Kingdom,Challenger Bank,99.9%,99.91%,No,None,May-2025
+CLT-0243,Recognise Bank,United Kingdom,Digital Bank,99.9%,99.91%,No,None,May-2025
+CLT-0244,Fiduciam,United Kingdom,Fintech,99.9%,99.93%,No,None,May-2025
+CLT-0245,Shawbrook Digital,United Kingdom,Digital Bank,99.9%,99.83%,Yes,Medium,May-2025
+CLT-0246,Aldermore Digital,United Kingdom,Digital Bank,99.9%,99.96%,No,None,May-2025
+CLT-0247,Paragon Digital,United Kingdom,Digital Bank,99.9%,99.93%,No,None,May-2025
+CLT-0248,Cynergy Business,United Kingdom,Digital Bank,99.9%,99.95%,No,None,May-2025
+CLT-0249,Hampshire Trust Digital,United Kingdom,Challenger Bank,99.9%,99.92%,No,None,May-2025
+CLT-0250,United Trust Digital,United Kingdom,Fintech,99.9%,99.46%,Yes,High,May-2025
+CLT-0251,Wesleyan Digital,United Kingdom,Challenger Bank,99.9%,99.95%,No,None,May-2025
+CLT-0252,Redwood Bank,United Kingdom,Fintech,99.9%,99.93%,No,None,May-2025
+CLT-0253,Lendio UK,United Kingdom,Fintech,99.9%,99.94%,No,None,May-2025
+CLT-0254,CapitalBox UK,United Kingdom,Challenger Bank,99.9%,99.96%,No,None,May-2025
+CLT-0255,Iwoca Business,United Kingdom,Fintech,99.9%,99.99%,No,None,May-2025
+CLT-0256,Funding Circle UK,United Kingdom,Digital Bank,99.9%,99.97%,No,None,May-2025
+CLT-0257,MarketFinance,United Kingdom,Digital Bank,99.9%,99.97%,No,None,May-2025
+CLT-0258,Bibby Digital,United Kingdom,Digital Bank,99.9%,99.08%,Yes,High,May-2025
+CLT-0259,Caple Finance,United Kingdom,Digital Bank,99.9%,99.93%,No,None,May-2025
+CLT-0260,Swoop Funding,United Kingdom,Challenger Bank,99.9%,99.96%,No,None,May-2025
+CLT-0261,Fleximize,United Kingdom,Fintech,99.9%,98.92%,Yes,Critical,May-2025
+CLT-0262,ThinCats Digital,United Kingdom,Digital Bank,99.9%,99.96%,No,None,May-2025
+CLT-0263,Folk2Folk,United Kingdom,Digital Bank,99.9%,99.98%,No,None,May-2025
+CLT-0264,LendingCrowd,United Kingdom,Challenger Bank,99.9%,99.94%,No,None,May-2025
+CLT-0265,ArchOver,United Kingdom,Challenger Bank,99.9%,99.99%,No,None,May-2025
+CLT-0266,Assetz Capital,United Kingdom,Fintech,99.9%,99.93%,No,None,May-2025
+CLT-0267,Growth Street,United Kingdom,Challenger Bank,99.9%,99.96%,No,None,May-2025
+CLT-0268,Rebuildingsociety,United Kingdom,Digital Bank,99.9%,99.82%,Yes,Medium,May-2025
+CLT-0269,Folk Finance,United Kingdom,Challenger Bank,99.9%,99.93%,No,None,May-2025
+CLT-0270,Proplend,United Kingdom,Fintech,99.9%,99.97%,No,None,May-2025
+CLT-0271,Kuflink,United Kingdom,Challenger Bank,99.9%,99.93%,No,None,May-2025
+CLT-0272,CrowdProperty,United Kingdom,Challenger Bank,99.9%,99.77%,Yes,Medium,May-2025
+CLT-0273,CapitalStackers,United Kingdom,Digital Bank,99.9%,99.97%,No,None,May-2025
+CLT-0274,Invest & Fund,United Kingdom,Digital Bank,99.9%,99.97%,No,None,May-2025
+CLT-0275,Blend Network,United Kingdom,Digital Bank,99.9%,99.96%,No,None,May-2025
+CLT-0276,Loanpad,United Kingdom,Fintech,99.9%,99.91%,No,None,May-2025
+CLT-0277,Ablrate,United Kingdom,Challenger Bank,99.9%,99.95%,No,None,May-2025
+CLT-0278,Relendex,United Kingdom,Challenger Bank,99.9%,99.76%,Yes,Medium,May-2025
+CLT-0279,Crowdstacker,United Kingdom,Challenger Bank,99.9%,99.92%,No,None,May-2025
+CLT-0280,LandlordInvest,United Kingdom,Digital Bank,99.9%,99.96%,No,None,May-2025
+CLT-0281,Sourced Capital,United Kingdom,Digital Bank,99.9%,99.91%,No,None,May-2025
+CLT-0282,Goji Investments,United Kingdom,Digital Bank,99.9%,99.94%,No,None,May-2025
+CLT-0283,Downing Crowd,United Kingdom,Fintech,99.9%,99.95%,No,None,May-2025
+CLT-0284,Triodos Crowdfunding,United Kingdom,Digital Bank,99.9%,99.94%,No,None,May-2025
+CLT-0285,Abundance Investment,United Kingdom,Digital Bank,99.9%,98.36%,Yes,Critical,May-2025
+CLT-0286,Deutsche FinTech,Germany,Payment Provider,99.5%,99.58%,No,None,May-2025
+CLT-0287,Berlin Payments GmbH,Germany,Payment Provider,99.5%,99.55%,No,None,May-2025
+CLT-0288,Hamburg Digital Bank,Germany,Payment Provider,99.9%,99.92%,No,None,May-2025
+CLT-0289,Munich FinCorp,Germany,Payment Provider,99.9%,99.92%,No,None,May-2025
+CLT-0290,Frankfurt PayTech,Germany,Digital Bank,99.9%,99.26%,Yes,High,May-2025
+CLT-0291,Cologne Digital Finance,Germany,Fintech,99.5%,99.56%,No,None,May-2025
+CLT-0292,Stuttgart FinVault,Germany,Fintech,99.5%,99.49%,Yes,Medium,May-2025
+CLT-0293,Dusseldorf PayCore,Germany,Payment Provider,99.9%,99.98%,No,None,May-2025
+CLT-0294,Leipzig FinBridge,Germany,Payment Provider,99.5%,99.57%,No,None,May-2025
+CLT-0295,Bremen PayStream,Germany,Payment Provider,99.5%,99.55%,No,None,May-2025
+CLT-0296,Dresden FinSync,Germany,Payment Provider,99.9%,99.98%,No,None,May-2025
+CLT-0297,Hannover PayEdge,Germany,Payment Provider,99.5%,99.49%,Yes,Medium,May-2025
+CLT-0298,Nuremberg FinLink,Germany,Digital Bank,99.9%,99.94%,No,None,May-2025
+CLT-0299,Dortmund PayFusion,Germany,Digital Bank,99.5%,98.24%,Yes,Critical,May-2025
+CLT-0300,Essen FinAxis,Germany,Payment Provider,99.9%,99.46%,Yes,High,May-2025
+CLT-0301,Bonn Digital Finance,Germany,Fintech,99.5%,99.53%,No,None,May-2025
+CLT-0302,Wiesbaden FinTech,Germany,Digital Bank,99.9%,99.95%,No,None,May-2025
+CLT-0303,Augsburg PaySolutions,Germany,Fintech,99.5%,99.57%,No,None,May-2025
+CLT-0304,Karlsruhe FinCore,Germany,Digital Bank,99.5%,99.56%,No,None,May-2025
+CLT-0305,Wuppertal PayNexus,Germany,Payment Provider,99.5%,99.33%,Yes,High,May-2025
+CLT-0306,Bielefeld FinVault,Germany,Digital Bank,99.9%,99.94%,No,None,May-2025
+CLT-0307,Bochum PayStream,Germany,Digital Bank,99.5%,99.55%,No,None,May-2025
+CLT-0308,Mannheim FinBridge,Germany,Digital Bank,99.9%,99.94%,No,None,May-2025
+CLT-0309,Gelsenkirchen PayCore,Germany,Payment Provider,99.5%,99.55%,No,None,May-2025
+CLT-0310,Aachen FinSync,Germany,Fintech,99.9%,99.94%,No,None,May-2025
+CLT-0311,Krefeld PayEdge,Germany,Digital Bank,99.5%,99.53%,No,None,May-2025
+CLT-0312,Freiburg FinLink,Germany,Payment Provider,99.9%,99.93%,No,None,May-2025
+CLT-0313,Oberhausen PayFusion,Germany,Fintech,99.9%,99.96%,No,None,May-2025
+CLT-0314,Halle FinAxis,Germany,Fintech,99.9%,99.98%,No,None,May-2025
+CLT-0315,Mainz Digital Finance,Germany,Digital Bank,99.5%,99.55%,No,None,May-2025
+CLT-0316,Amsterdam FinTech,Netherlands,Digital Bank,99.5%,99.55%,No,None,May-2025
+CLT-0317,Rotterdam PayCore,Netherlands,Fintech,99.5%,99.53%,No,None,May-2025
+CLT-0318,The Hague Digital Bank,Netherlands,Payment Provider,99.5%,98.24%,Yes,Critical,May-2025
+CLT-0319,Utrecht FinBridge,Netherlands,Payment Provider,99.5%,99.54%,No,None,May-2025
+CLT-0320,Eindhoven PayStream,Netherlands,Digital Bank,99.5%,99.55%,No,None,May-2025
+CLT-0321,Tilburg FinSync,Netherlands,Payment Provider,99.5%,99.53%,No,None,May-2025
+CLT-0322,Groningen PayEdge,Netherlands,Digital Bank,99.5%,99.55%,No,None,May-2025
+CLT-0323,Almere FinLink,Netherlands,Digital Bank,99.9%,99.97%,No,None,May-2025
+CLT-0324,Breda PayFusion,Netherlands,Digital Bank,99.5%,99.55%,No,None,May-2025
+CLT-0325,Nijmegen FinAxis,Netherlands,Fintech,99.9%,99.91%,No,None,May-2025
+CLT-0326,Apeldoorn Digital Finance,Netherlands,Digital Bank,99.5%,99.53%,No,None,May-2025
+CLT-0327,Haarlem FinTech,Netherlands,Payment Provider,99.9%,99.94%,No,None,May-2025
+CLT-0328,Arnhem PayCore,Netherlands,Digital Bank,99.9%,99.93%,No,None,May-2025
+CLT-0329,Zaandam FinBridge,Netherlands,Fintech,99.5%,99.56%,No,None,May-2025
+CLT-0330,Amersfoort PayStream,Netherlands,Digital Bank,99.5%,99.54%,No,None,May-2025
+CLT-0331,'s-Hertogenbosch FinSync,Netherlands,Payment Provider,99.9%,99.95%,No,None,May-2025
+CLT-0332,Maastricht PayEdge,Netherlands,Fintech,99.9%,99.94%,No,None,May-2025
+CLT-0333,Dordrecht FinLink,Netherlands,Fintech,99.9%,99.99%,No,None,May-2025
+CLT-0334,Leiden PayFusion,Netherlands,Payment Provider,99.5%,99.55%,No,None,May-2025
+CLT-0335,Zoetermeer FinAxis,Netherlands,Payment Provider,99.5%,99.54%,No,None,May-2025
+CLT-0336,Paris FinTech,France,Digital Bank,99.9%,99.95%,No,None,May-2025
+CLT-0337,Lyon Digital Bank,France,Payment Provider,99.9%,99.15%,Yes,High,May-2025
+CLT-0338,Marseille PayCore,France,Digital Bank,99.5%,99.53%,No,None,May-2025
+CLT-0339,Toulouse FinBridge,France,Digital Bank,99.5%,99.49%,Yes,Medium,May-2025
+CLT-0340,Nice PayStream,France,Payment Provider,99.9%,99.94%,No,None,May-2025
+CLT-0341,Nantes FinSync,France,Digital Bank,99.9%,99.97%,No,None,May-2025
+CLT-0342,Strasbourg PayEdge,France,Digital Bank,99.9%,99.99%,No,None,May-2025
+CLT-0343,Montpellier FinLink,France,Fintech,99.5%,99.49%,Yes,Medium,May-2025
+CLT-0344,Bordeaux PayFusion,France,Digital Bank,99.9%,99.93%,No,None,May-2025
+CLT-0345,Lille FinAxis,France,Payment Provider,99.5%,99.57%,No,None,May-2025
+CLT-0346,Rennes Digital Finance,France,Digital Bank,99.5%,99.5%,Yes,Medium,May-2025
+CLT-0347,Reims FinTech,France,Digital Bank,99.5%,99.56%,No,None,May-2025
+CLT-0348,Saint-Etienne PayCore,France,Digital Bank,99.9%,99.97%,No,None,May-2025
+CLT-0349,Le Havre FinBridge,France,Fintech,99.9%,99.96%,No,None,May-2025
+CLT-0350,Grenoble PayStream,France,Digital Bank,99.9%,99.99%,No,None,May-2025
