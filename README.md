@@ -65,7 +65,7 @@ Monitri is a fictional AI-powered BaaS company serving 350 clients across the US
 
 ---
 
-## Project Status
+## Project Status **Live Dashboard:** [View on Looker Studio](https://datastudio.google.com/reporting/1bb9107c-bb54-44c7-869b-641a73f20fa2)
 
 | Phase | Description | Status |
 |---|---|---|
@@ -74,7 +74,7 @@ Monitri is a fictional AI-powered BaaS company serving 350 clients across the US
 | 03 | Data Build — 4 Datasets, 672 Records | ✅ Complete |
 | 04 | Architecture — draw.io + Miro | ✅ Complete |
 | 05 | Database & Queries — SQLite, 25 SQL Queries | ✅ Complete |
-| 06 | Dashboard — Looker Studio, 4 Modules | 🔄 In Progress |
+| 06 | Dashboard — Looker Studio, 4 Modules | ✅ Complete |
 | 07 | Documentation — Confluence, Case Study PDF | ⏳ Upcoming |
 | 08 | AI War Room — React App, Vercel | ⏳ Upcoming |
 
