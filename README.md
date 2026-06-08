@@ -1,90 +1,89 @@
 # FIDP-2025-001 | Monitri FinOps Intelligence Dashboard
 
-**Author:** Anumeha Princy, PMP® | Operations PM | Sunnyvale, CA  
-**Status:** Complete — All 11 Phases Delivered | Case Study PDF and Demo Video in progress
-**Data Period:** January – May 2025  
-**Environment:** Simulated | All data is synthetic
-
+Author: Anumeha Princy, PMP® | Operations PM | Sunnyvale, CA
+Status: Complete
+Data Period: January–May 2025
+Environment: Simulated Enterprise BaaS Platform
+ 
+Show Image
+Show Image
+Show Image
+Show Image
 ---
+The Problem
+Without a centralized intelligence dashboard, ops teams at BaaS companies rely on manual spreadsheet scanning to detect issues — a process that takes 3 to 4 days from detection to resolution. By that point, clients have already experienced the impact and the team is reacting, not leading.
 
-## About the Project
+The Solution
+FIDP-2025-001 is an end-to-end operational intelligence platform built to show how an Operations PM uses data to investigate incidents, communicate with stakeholders, make vendor decisions, and document outcomes.
 
-I identified a core operations problem in BaaS platforms — teams are reactive because their data is disconnected. I built a platform that centralizes SLA, vendor, pipeline, and anomaly data into one intelligence layer so ops teams can act before clients feel the impact.
+Live Dashboard
+🔗 View Live Looker Studio Dashboard
+Show Image
+SLA/SLO Performance Tracker — 52 of 350 clients breached SLA across Jan–May 2025
+Show Image
+Vendor Scorecard — Jumio identified as most persistent underperformer (4 consecutive breaches)
+Show Image
+CI/CD Health Monitor — 16 failed deployments, 1,769 minutes total downtime
+Show Image
+Data Anomaly Alerts — 7 High/Critical anomalies escalated to VP Engineering
 
-Monitri is a fictional AI-powered BaaS company serving 350 clients across the US and Europe. FIDP is the operational intelligence system I designed, built, and documented as a solo portfolio project.
+Tech Stack
+LayerToolData SourceGoogle Sheets (4 datasets, 672 records)DatabaseSQLite — DB Browser v3.13.1SQL Queries25 queries across 5 categoriesDashboardLooker Studio — 4 modulesProject ManagementJira (F20MFD board)DocumentationConfluence (6 pages)ArchitectureDraw.io + MiroVersion ControlGitHub
 
----
+System Architecture
+Data Pipeline:
+Google Sheets → CSV Import → SQLite (25 SQL Queries) → Looker Studio (4 Modules) → Stakeholders (COO · VP Engineering · Head of Client Success)
 
-## Tech Stack
+Key Metrics
+MetricResultMean Detection Time3–4 days → 15 minutesTotal Downtime Quantified29.5 hours across 16 failed deploymentsClient-Initiated Escalations0Platform SLA Breach Rate14.86% (52 of 350 clients)Highest Risk SegmentPayment Providers — 21.74% breach rateHighest Risk RegionFrance — 26.67% breach rateVendor TerminatedJumio — failed 90-day performance watch
 
-| Layer | Tool |
-|---|---|
-| Data Storage | SQLite, Google Sheets |
-| Analysis | SQL — 25 queries across 5 categories |
-| Visualization | Looker Studio |
-| Documentation | Confluence, GitHub |
-| Tracking | Jira |
-| AI Capstone | Claude API, React, Vercel |
+Three Operational Scenarios
+Scenario A — DEP-0109 | P1 Production Failure | F20MFD-1
 
----
+Root Cause: Network timeout during third-party API call
+Impact: 195 minutes downtime · 58 clients affected
+Outcome: Detected in 15 minutes. Resolved same day. 0 client escalations.
 
-## Dataset Summary
+Scenario B — DEP-0104 | P2 Production Failure | F20MFD-2
 
-| Table | Records | What It Tracks |
-|---|---|---|
-| client_sla | 350 | SLA/SLO compliance across 350 clients — breach detection, uptime gaps, regional segmentation |
-| vendor_performance | 25 | 5 vendors x 5 months — SLA delivery, performance scores, incident counts, monthly spend |
-| cicd_pipeline | 225 | CI/CD deployment health — failures, downtime, client impact, root causes |
-| data_anomalies | 72 | Data anomaly log — severity, detection time, resolution time, action taken |
-| **Total** | **672** | |
+Root Cause: SSL certificate validation failure
+Impact: 230 minutes downtime (longest in dataset) · 39 clients affected
+Outcome: Detected in 15 minutes. Resolved same day. Auto certificate validation added to pipeline.
 
----
+Scenario C — Jumio KYC Vendor Termination | F20MFD-3
 
-## SQL Query Categories
+Breach Period: February–May 2025 — 4 consecutive months
+Watch Period: June–August 2025 — failed 2 of 3 months
+Outcome: COO approved termination September 10, 2025. Offboarded November 2025.
 
-| Category | Queries | Purpose |
-|---|---|---|
-| DDL | 4 | Schema creation — table structure and constraints |
-| Core Ops | 5 | Daily monitoring — what is broken right now and who is affected |
-| Analytics | 6 | Trend analysis — patterns that predict where risk is heading |
-| Risk Scoring | 5 | Early warning — clients, vendors, deployments about to fail |
-| Executive | 5 | Leadership dashboard — Monday morning platform health summary |
-| **Total** | **25** | |
 
----
+Jira Board
+Show Image
+F20MFD board — 3 of 3 tickets DONE
 
-## Key Findings
+Confluence Project Wiki
+Show Image
+6-page project wiki — Project Home, PM Documents, Data & SQL, Scenarios, Dashboard, Lessons Learned
 
-- **14.86%** overall SLA breach rate across 350 clients
-- **Payment Providers** highest breach rate at 21.74%
-- **France** highest regional breach rate at 26.67%
-- **Stripe API mismatch** — #1 recurring CI/CD root cause (4 occurrences)
-- **Jumio** — most underperforming vendor, 4 consecutive SLA breaches, score declined from 8 to 6
-- **29.5 hours** total downtime from failed deployments across Jan–May 2025
-- **Abundance Investment** — triple risk flag across SLA, anomaly, and uptime gap analyses
+Folder Structure
+FIDP-2025-001-Monitri/
+├── queries/              # 25 SQL queries across 5 categories
+├── schema/               # SQLite table creation scripts
+├── screenshots/          # Dashboard, Jira, and Confluence screenshots
+├── Monitri_*.pdf         # PM documents, proof artifacts, case study
+├── Monitri_*.xlsx        # Metric trackers
+└── README.md
 
----
+Results
 
-## Project Status **Live Dashboard:** [View on Looker Studio](https://datastudio.google.com/reporting/1bb9107c-bb54-44c7-869b-641a73f20fa2)
+Detection time improved 92% — 3–4 days manual → 15 minutes via FIDP dashboard
+Zero client-initiated escalations across all incidents
+Full vendor governance cycle completed — Jumio breach → formal review → 90-day watch → termination
+Stripe identified as dual risk — vendor SLA breach AND #1 CI/CD root cause (4 occurrences)
+14.86% platform SLA breach rate baselined for Q3 2025 improvement target
 
-| Phase | Description | Status |
-|---|---|---|
-| 01 | Initiation — Project Charter | ✅ Complete |
-| 02 | Planning — 5 Governance Documents | ✅ Complete |
-| 03 | Data Build — 4 Datasets, 672 Records | ✅ Complete |
-| 04 | Architecture — draw.io + Miro | ✅ Complete |
-| 05 | Database & Queries — SQLite, 25 SQL Queries | ✅ Complete |
-| 06 | Dashboard — Looker Studio, 4 Modules | ✅ Complete |
-| 07 | Documentation — Confluence | ✅ Complete |, Case Study PDF | ⏳ Upcoming |
-| 08 | AI War Room — React App, Vercel | ⏳ Upcoming |
 
----
+Project Links
+ToolLinkLive DashboardLooker StudioJira BoardF20MFD-1 · F20MFD-2 · F20MFD-3Confluence WikiFIDP-2025-001 Monitri FinOps DashboardIncident Response WorkflowMiro Board
 
-## Repository Structure
----
-
-## Author
-
-**Anumeha Princy, PMP®**  
-Operations Program Manager | Sunnyvale, CA  
-[LinkedIn](https://www.linkedin.com/in/anumeha-princy) | PMP® Certified | Google Data Analytics | IBM Generative AI
+FIDP-2025-001 · Simulated Enterprise Environment · Anumeha Princy, PMP® · June 2026
