@@ -1,6 +1,7 @@
 # FIDP-2025-001 | FinOps Intelligence Dashboard
 
 > Operations PM Portfolio Project — Monitri BaaS Platform
+
 Monitri is a simulated Banking-as-a-Service (BaaS) platform created to demonstrate enterprise Operations PM workflows in a realistic business environment.
 
 I built this project to answer one question: what does structured Operations PM work actually look like, end to end?
