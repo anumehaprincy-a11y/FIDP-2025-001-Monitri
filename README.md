@@ -24,9 +24,9 @@ Not a template. Not a course assignment. A full operational intelligence system 
 ---
 
 ## Explore the project
-
+- [Video Walkthrough — Loom](https://www.loom.com/share/65182078398641108a482211d820d9ae)
 - [Executive Dashboard — Looker Studio](https://datastudio.google.com/reporting/1bb9107c-bb54-44c7-869b-641a73f20fa2)
-- [Case Study PDF](./case-study/Monitri_Case_Study_Version_Final.pdf)
+- [Case Study PDF](case-study/Monitri_CS1.pdf)
 - [Executive Brief](./docs/Executive%20Brief)
 - [Confluence Space](https://anumehaprincy.atlassian.net)
 - [Jira Board — F20MFD](https://anumehaprincy.atlassian.net)
