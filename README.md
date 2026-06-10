@@ -67,7 +67,7 @@ Not a template. Not a course assignment. A full operational intelligence system 
 
 ## Confluence Space
 
-![Confluence Homepage](screenshots/Confluence1.png)
+![Confluence Homepage](screenshots/Confluence%201.png)
 
 ---
 
