@@ -1,0 +1,2002 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 3
+/Kids [ 4 0 R 13 0 R 17 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Annots [ 5 0 R ]
+/Contents 6 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 7 0 R
+/F1-0 8 0 R
+/F2 9 0 R
+/F2-0 10 0 R
+/F3 11 0 R
+/F4 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057www\056linkedin\056com\057in\057anumeha\055princy\055pmp\055650315110)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 59.2 638.8 232.6 649.8 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/Length 8463
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 43.2 622.8 cm
+q
+.105882 .164706 .290196 rg
+n 0 120 525.6 -120 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 16 82 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL (FinOps Intelligence Dashboard) Tj T* ET
+Q
+Q
+BT 1 0 0 1 512.8 84 Tm  T* ET
+q
+1 0 0 1 16 65 cm
+q
+.658824 .768627 .831373 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Monitri BaaS Platform | Operations PM Portfolio Project) Tj T* ET
+Q
+Q
+BT 1 0 0 1 512.8 67 Tm  T* ET
+q
+1 0 0 1 16 48 cm
+q
+BT 1 0 0 1 0 3 Tm 11.5 TL /F1 8.5 Tf .658824 .768627 .831373 rg (Anumeha Princy, PMP\256  ) Tj (|) Tj (  Operations PM  ) Tj (|) Tj (  Sunnyvale, CA) Tj T* ET
+Q
+Q
+BT 1 0 0 1 512.8 50 Tm  T* ET
+q
+1 0 0 1 16 31 cm
+q
+BT 1 0 0 1 0 3 Tm 11 TL /F1 8 Tf .478431 .623529 .690196 rg (Project ID: FIDP-2025-001  ) Tj (|) Tj (  Jan\226May 2025  ) Tj (|) Tj (  Simulated Enterprise Environment) Tj T* ET
+Q
+Q
+BT 1 0 0 1 512.8 33 Tm  T* ET
+q
+1 0 0 1 16 14 cm
+q
+.658824 .768627 .831373 rg
+.658824 .768627 .831373 RG
+n 0 2 m 173.4 2 l S
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (linkedin.com/in/anumeha-princy-pmp-650315110) Tj T* ET
+Q
+Q
+BT 1 0 0 1 512.8 16 Tm  T* ET
+q
+Q
+Q
+Q
+q
+1 0 0 1 49.2 617.8 cm
+Q
+q
+1 0 0 1 43.2 572.8 cm
+q
+.164706 .498039 .498039 rg
+n 0 45 525.6 -45 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 22 cm
+q
+.768627 .603922 .156863 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL 23.516 0 Td (3\2264 days ) Tj /F3 13 Tf 16 TL (\256) Tj /F2 13 Tf 16 TL ( 15 min) Tj T* -23.516 0 Td ET
+Q
+Q
+q
+1 0 0 1 181.2 22 cm
+q
+.768627 .603922 .156863 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL 49.087 0 Td (29.5 hours) Tj T* -49.087 0 Td ET
+Q
+Q
+q
+1 0 0 1 356.4 22 cm
+q
+.768627 .603922 .156863 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL 77.986 0 Td (0) Tj T* -77.986 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 7 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL 43.588 0 Td (Mean Detection Time) Tj T* -43.588 0 Td ET
+Q
+Q
+q
+1 0 0 1 181.2 7 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL 44.476 0 Td (Downtime Quantified) Tj T* -44.476 0 Td ET
+Q
+Q
+q
+1 0 0 1 356.4 7 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL 34.472 0 Td (Client-Initiated Escalations) Tj T* -34.472 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+.227451 .623529 .623529 RG
+.5 w
+n 175.2 0 m 175.2 45 l S
+n 350.4 0 m 350.4 45 l S
+Q
+Q
+Q
+q
+1 0 0 1 49.2 567.8 cm
+Q
+q
+1 0 0 1 49.2 548.8 cm
+q
+.105882 .164706 .290196 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (Project at a Glance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 544.6 cm
+q
+1.2 w
+1 J
+.164706 .498039 .498039 RG
+n 0 0 m 513.6 0 l S
+Q
+Q
+q
+1 0 0 1 43.2 331.6 cm
+q
+.815686 .843137 .890196 rg
+n 0 209 525.6 -19 re f*
+1 1 1 rg
+n 0 190 525.6 -19 re f*
+.956863 .964706 .976471 rg
+n 0 171 525.6 -19 re f*
+1 1 1 rg
+n 0 152 525.6 -19 re f*
+.956863 .964706 .976471 rg
+n 0 133 525.6 -19 re f*
+1 1 1 rg
+n 0 114 525.6 -19 re f*
+.956863 .964706 .976471 rg
+n 0 95 525.6 -19 re f*
+1 1 1 rg
+n 0 76 525.6 -19 re f*
+.956863 .964706 .976471 rg
+n 0 57 525.6 -19 re f*
+1 1 1 rg
+n 0 38 525.6 -19 re f*
+.956863 .964706 .976471 rg
+n 0 19 525.6 -19 re f*
+.105882 .164706 .290196 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 194 cm
+q
+.105882 .164706 .290196 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (Metric) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.2 194 cm
+q
+.105882 .164706 .290196 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (Value) Tj T* ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 175 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Clients) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.2 175 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (350 \(220 US \267 130 Europe\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 156 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Vendors) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.2 156 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (5 \(Stripe, AWS, Jumio, Sardine, ComplyAdvantage\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 137 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Records) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.2 137 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (672 across 4 datasets) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 118 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (SQL Queries) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.2 118 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (25 across 5 categories) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 99 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Dashboard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.2 99 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (4 modules \(SLA \267 CI/CD \267 Anomalies \267 Vendor Scorecard\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 80 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (PM Documents) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.2 80 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (6 \(Charter \267 RACI \267 Risk Register \267 Stakeholder Log \267 Comms \267 Change Log\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 61 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Jira Scenarios) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.2 61 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (3 end-to-end) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 42 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Proof Artifacts) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.2 42 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (20+) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 23 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Confluence) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.2 23 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (6 pages) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 4 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Duration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.2 4 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Jan 2025 \226 Jun 2026) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.815686 .843137 .890196 RG
+.3 w
+n 0 209 m 525.6 209 l S
+n 0 0 m 525.6 0 l S
+n 0 0 m 0 209 l S
+n 525.6 0 m 525.6 209 l S
+n 0 190 m 525.6 190 l S
+n 0 171 m 525.6 171 l S
+n 0 152 m 525.6 152 l S
+n 0 133 m 525.6 133 l S
+n 0 114 m 525.6 114 l S
+n 0 95 m 525.6 95 l S
+n 0 76 m 525.6 76 l S
+n 0 57 m 525.6 57 l S
+n 0 38 m 525.6 38 l S
+n 0 19 m 525.6 19 l S
+n 79.2 0 m 79.2 209 l S
+Q
+Q
+Q
+q
+1 0 0 1 49.2 327.6 cm
+Q
+q
+1 0 0 1 49.2 308.6 cm
+q
+BT 1 0 0 1 0 3 Tm 13 TL /F2 10 Tf .105882 .164706 .290196 rg (01   Executive Summary) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 304.4 cm
+q
+1.2 w
+1 J
+.164706 .498039 .498039 RG
+n 0 0 m 513.6 0 l S
+Q
+Q
+q
+1 0 0 1 49.2 261.4 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 30.5 Tm /F1 8.5 Tf 13 TL (The goal wasn't just to build dashboards. It was to show how an Operations PM uses data to investigate incidents, communicate with) Tj T* (stakeholders, make vendor decisions, and document outcomes \227 across a simulated BaaS environment serving 350 clients, 5 vendors,) Tj T* (and 672 operational records.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 232.4 cm
+q
+BT 1 0 0 1 0 17.5 Tm 13 TL /F2 8.5 Tf .101961 .101961 .101961 rg (What didn't go well:) Tj /F1 8.5 Tf ( I originally built in Tableau Public before switching to Looker Studio \227 better Google ecosystem fit, eliminated a) Tj T* (data export step. Logged as CHG003.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 203.4 cm
+q
+BT 1 0 0 1 0 17.5 Tm 13 TL /F2 8.5 Tf .101961 .101961 .101961 rg (Trade-off:) Tj /F1 8.5 Tf ( Stopped at 4 dashboard modules deliberately. More were proposed but rejected via change control. Delivery discipline over) Tj T* (feature expansion.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 174.4 cm
+q
+BT 1 0 0 1 0 17.5 Tm 13 TL /F2 8.5 Tf .101961 .101961 .101961 rg (Mistake:) Tj /F1 8.5 Tf ( Early SQL work was slowed by inconsistent column naming \227 % symbols, $ signs, text durations. Fixing the schema first) Tj T* (would have saved hours.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 145.4 cm
+q
+BT 1 0 0 1 0 17.5 Tm 13 TL /F2 8.5 Tf .101961 .101961 .101961 rg (Decision I debated:) Tj /F1 8.5 Tf ( DEP-0104 had the longest downtime \(230 min\) but I kept it P2 \227 only 39 clients vs 58 for DEP-0109. Priority must) Tj T* (be data-driven, not duration-driven.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.941176 0.992157 0.956863 rg
+n
+49 559 514 16 re
+f*
+0.768627 0.603922 0.156863 rg
+n
+49 559 2 16 re
+f*
+0.419608 0.447059 0.501961 rg
+BT
+/F2-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 56 564 Tm
+(Note\072 SLA breach detection baseline \075 2\053 hours \050manual dashboard check\051\056 Incident root cause investigation baseline \075 3\2264 days \050cross\055system manual analysis\051\056) Tj
+T*
+ET
+0.976471 0.980392 0.984314 rg
+n
+125 336 438 11 re
+f*
+0.176471 0.215686 0.282353 rg
+BT
+/F1-0 8.5 Tf
+10.2 TL
+ET
+BT
+1 0 0 1 128 338 Tm
+(Data Period\072 Jan\226May 2025 \267 Completed\072 June 2026) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /Symbol
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/BaseFont /ZapfDingbats
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+13 0 obj
+<<
+/Contents 14 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 7 0 R
+/F1-0 15 0 R
+/F2 9 0 R
+/F2-0 16 0 R
+/F3 11 0 R
+/F4 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+14 0 obj
+<<
+/Length 10793
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 49.2 729.8 cm
+q
+.105882 .164706 .290196 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (System Architecture) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 725.6 cm
+q
+1.2 w
+1 J
+.164706 .498039 .498039 RG
+n 0 0 m 513.6 0 l S
+Q
+Q
+q
+1 0 0 1 43.2 577.6 cm
+q
+.105882 .164706 .290196 rg
+n 0 144 525.6 -22 re f*
+.141176 .376471 .478431 rg
+n 0 122 525.6 -22 re f*
+.164706 .498039 .498039 rg
+n 0 100 525.6 -22 re f*
+.176471 .415686 .309804 rg
+n 0 78 525.6 -22 re f*
+.352941 .290196 .164706 rg
+n 0 56 525.6 -34 re f*
+.227451 .164706 .352941 rg
+n 0 22 525.6 -22 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 7 127 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Operational Data Sources) Tj T* ET
+Q
+Q
+q
+1 0 0 1 136.6 128 cm
+q
+.8 .866667 .933333 rg
+BT 1 0 0 1 0 2.5 Tm /F1 7.5 Tf 10 TL (Client SLA \267 CI/CD Pipeline \267 Data Anomalies \267 Vendor Performance \267 672 Records) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 105 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Data Integration Layer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 136.6 106 cm
+q
+.8 .866667 .933333 rg
+BT 1 0 0 1 0 2.5 Tm /F1 7.5 Tf 10 TL (CSV Validation \267 Data Standardization \267 Data Cleansing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 83 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (SQLite Database) Tj T* ET
+Q
+Q
+q
+1 0 0 1 136.6 84 cm
+q
+.8 .866667 .933333 rg
+BT 1 0 0 1 0 2.5 Tm /F1 7.5 Tf 10 TL (4 Tables \267 25 SQL Queries \267 Risk Scoring \267 Executive Reporting) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 61 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Looker Studio Dashboard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 136.6 62 cm
+q
+.8 .866667 .933333 rg
+BT 1 0 0 1 0 2.5 Tm /F1 7.5 Tf 10 TL (SLA Compliance \267 CI/CD Health \267 Vendor Scorecard \267 Anomaly Alerts) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 27 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 15 Tm /F2 9 Tf 12 TL (Operational Decision) Tj T* (Support) Tj T* ET
+Q
+Q
+q
+1 0 0 1 136.6 34 cm
+q
+.8 .866667 .933333 rg
+BT 1 0 0 1 0 2.5 Tm /F1 7.5 Tf 10 TL (Incident Detection \267 Executive Reporting \267 Vendor Governance \267 Risk Monitoring) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Stakeholders) Tj T* ET
+Q
+Q
+q
+1 0 0 1 136.6 6 cm
+q
+.8 .866667 .933333 rg
+BT 1 0 0 1 0 2.5 Tm /F1 7.5 Tf 10 TL (COO \267 VP Engineering \267 Head of Client Success \267 Vendor Mgmt \267 Ops PM) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+1 1 1 RG
+.5 w
+n 0 122 m 525.6 122 l S
+n 0 100 m 525.6 100 l S
+n 0 78 m 525.6 78 l S
+n 0 56 m 525.6 56 l S
+n 0 22 m 525.6 22 l S
+.105882 .164706 .290196 RG
+1 w
+n 0 144 m 525.6 144 l S
+n 0 0 m 525.6 0 l S
+n 0 0 m 0 144 l S
+n 525.6 0 m 525.6 144 l S
+Q
+Q
+Q
+q
+1 0 0 1 49.2 573.6 cm
+Q
+q
+1 0 0 1 49.2 554.6 cm
+q
+BT 1 0 0 1 0 3 Tm 13 TL /F2 10 Tf .105882 .164706 .290196 rg (02   Problem Statement) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 550.4 cm
+q
+1.2 w
+1 J
+.164706 .498039 .498039 RG
+n 0 0 m 513.6 0 l S
+Q
+Q
+q
+1 0 0 1 49.2 520.4 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 17.5 Tm /F1 8.5 Tf 13 TL (Without a centralized dashboard, ops teams rely on manual spreadsheet scanning \227 3 to 4 days from detection to resolution. By that) Tj T* (point clients are affected and the team is reacting, not leading.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 43.2 422.4 cm
+q
+.815686 .843137 .890196 rg
+n 0 95 525.6 -19 re f*
+1 .941176 .941176 rg
+n 0 76 262.8 -76 re f*
+.941176 1 .956863 rg
+n 262.8 76 262.8 -76 re f*
+.105882 .164706 .290196 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 7 80 cm
+q
+.105882 .164706 .290196 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (Without FIDP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 269.8 80 cm
+q
+.105882 .164706 .290196 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (With FIDP) Tj T* ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 7 61 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (3\2264 day detection \227 manual review) Tj T* ET
+Q
+Q
+q
+1 0 0 1 269.8 61 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (15-minute detection \227 automated alert) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 42 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Vendor breaches detected monthly \227 30-day lag) Tj T* ET
+Q
+Q
+q
+1 0 0 1 269.8 42 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Same-day breach alert via Vendor Scorecard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 23 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Incidents treated individually) Tj T* ET
+Q
+Q
+q
+1 0 0 1 269.8 23 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Cross-query patterns surface systemic risks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 4 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Clients escalate first) Tj T* ET
+Q
+Q
+q
+1 0 0 1 269.8 4 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Proactive notifications \227 0 client escalations) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.815686 .843137 .890196 RG
+.3 w
+n 0 95 m 525.6 95 l S
+n 0 0 m 525.6 0 l S
+n 0 0 m 0 95 l S
+n 525.6 0 m 525.6 95 l S
+n 0 76 m 525.6 76 l S
+n 0 57 m 525.6 57 l S
+n 0 38 m 525.6 38 l S
+n 0 19 m 525.6 19 l S
+n 262.8 0 m 262.8 95 l S
+Q
+Q
+Q
+q
+1 0 0 1 49.2 403.4 cm
+q
+BT 1 0 0 1 0 3 Tm 13 TL /F2 10 Tf .105882 .164706 .290196 rg (03   Approach) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 399.2 cm
+q
+1.2 w
+1 J
+.164706 .498039 .498039 RG
+n 0 0 m 513.6 0 l S
+Q
+Q
+q
+1 0 0 1 43.2 289.2 cm
+q
+.815686 .843137 .890196 rg
+n 0 106 525.6 -19 re f*
+1 1 1 rg
+n 0 87 525.6 -30 re f*
+.956863 .964706 .976471 rg
+n 0 57 525.6 -19 re f*
+1 1 1 rg
+n 0 38 525.6 -19 re f*
+.956863 .964706 .976471 rg
+n 0 19 525.6 -19 re f*
+.105882 .164706 .290196 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 91 cm
+q
+.105882 .164706 .290196 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (Area) Tj T* ET
+Q
+Q
+q
+1 0 0 1 106.8 91 cm
+q
+.105882 .164706 .290196 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (What was built) Tj T* ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 72 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (PM Governance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 106.8 61 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 14 Tm /F1 8 Tf 11 TL (6 documents \227 Charter, RACI, Risk Register, Stakeholder Log, Communication Plan, Change Log. All updated) Tj T* (through the lifecycle.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 42 cm
+q
+BT 1 0 0 1 0 3 Tm 11 TL /F1 8 Tf .101961 .101961 .101961 rg (Data & SQL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 106.8 42 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (672 records across 4 datasets. 25 SQL queries across 5 categories \227 every query has a documented PM action.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 23 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Dashboard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 106.8 23 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (4 Looker Studio modules \227 SLA, CI/CD Health, Anomalies, Vendor Scorecard. Live and shareable.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 4 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Scenarios) Tj T* ET
+Q
+Q
+q
+1 0 0 1 106.8 4 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (3 Jira tickets end to end. 16 stakeholder communications. 10 executive escalations documented.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.815686 .843137 .890196 RG
+.3 w
+n 0 106 m 525.6 106 l S
+n 0 0 m 525.6 0 l S
+n 0 0 m 0 106 l S
+n 525.6 0 m 525.6 106 l S
+n 0 87 m 525.6 87 l S
+n 0 57 m 525.6 57 l S
+n 0 38 m 525.6 38 l S
+n 0 19 m 525.6 19 l S
+n 100.8 0 m 100.8 106 l S
+Q
+Q
+Q
+q
+1 0 0 1 49.2 270.2 cm
+q
+BT 1 0 0 1 0 3 Tm 13 TL /F2 10 Tf .105882 .164706 .290196 rg (04   Execution \227 Three Scenarios) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 266 cm
+q
+1.2 w
+1 J
+.164706 .498039 .498039 RG
+n 0 0 m 513.6 0 l S
+Q
+Q
+q
+1 0 0 1 43.2 153 cm
+q
+.815686 .843137 .890196 rg
+n 0 109 525.6 -19 re f*
+.105882 .164706 .290196 rg
+n 0 90 75.6 -30 re f*
+.164706 .498039 .498039 rg
+n 0 60 75.6 -30 re f*
+.490196 .290196 0 rg
+n 0 30 75.6 -30 re f*
+1 1 1 rg
+n 0 90 525.6 -30 re f*
+.956863 .964706 .976471 rg
+n 0 60 525.6 -30 re f*
+1 1 1 rg
+n 0 30 525.6 -30 re f*
+.105882 .164706 .290196 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 94 cm
+q
+.105882 .164706 .290196 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (Scenario) Tj T* ET
+Q
+Q
+q
+1 0 0 1 80.6 94 cm
+q
+.105882 .164706 .290196 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (Root Cause) Tj T* ET
+Q
+Q
+q
+1 0 0 1 210.2 94 cm
+q
+.105882 .164706 .290196 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (Impact) Tj T* ET
+Q
+Q
+q
+1 0 0 1 321.8 94 cm
+q
+.105882 .164706 .290196 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (Outcome) Tj T* ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 5 64 cm
+q
+BT 1 0 0 1 0 14 Tm 11 TL /F2 8 Tf 1 1 1 rg (DEP-0109 P1) Tj T* (F20MFD-1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 80.6 64 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 14 Tm /F1 8 Tf 11 TL (Network timeout \227 third-party) Tj T* (API call) Tj T* ET
+Q
+Q
+q
+1 0 0 1 210.2 75 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (195 min \267 58 clients) Tj T* ET
+Q
+Q
+q
+1 0 0 1 321.8 75 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (15 min detection. Resolved same day. 0 escalations.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 34 cm
+q
+BT 1 0 0 1 0 14 Tm 11 TL /F2 8 Tf 1 1 1 rg (DEP-0104 P2) Tj T* (F20MFD-2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 80.6 45 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (SSL certificate validation failure) Tj T* ET
+Q
+Q
+q
+1 0 0 1 210.2 45 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (230 min \267 39 clients) Tj T* ET
+Q
+Q
+q
+1 0 0 1 321.8 34 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 14 Tm /F1 8 Tf 11 TL (15 min detection. Resolved same day. Auto cert) Tj T* (validation added.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 4 cm
+q
+BT 1 0 0 1 0 14 Tm 11 TL /F2 8 Tf 1 1 1 rg (Jumio KYC) Tj T* (F20MFD-3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 80.6 4 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 14 Tm /F1 8 Tf 11 TL (4-month SLA breach. Worst: April) Tj T* (99.79%, score 5/10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 210.2 4 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 14 Tm /F1 8 Tf 11 TL (2 of 3 watch months failed \267) Tj T* (26 incidents) Tj T* ET
+Q
+Q
+q
+1 0 0 1 321.8 15 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (COO termination Sep 10. Offboarded Nov 2025.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.815686 .843137 .890196 RG
+.3 w
+n 0 109 m 525.6 109 l S
+n 0 0 m 525.6 0 l S
+n 0 0 m 0 109 l S
+n 525.6 0 m 525.6 109 l S
+n 0 90 m 525.6 90 l S
+n 0 60 m 525.6 60 l S
+n 0 30 m 525.6 30 l S
+n 75.6 0 m 75.6 109 l S
+n 205.2 0 m 205.2 109 l S
+n 316.8 0 m 316.8 109 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+40 222 78 22 re
+f*
+0.105882 0.164706 0.290196 rg
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 42 236 Tm
+(DEP\0550109 P1) Tj
+T*
+ET
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+0.419608 0.447059 0.501961 rg
+BT
+1 0 0 1 42 225 Tm
+(F20MFD\0551) Tj
+T*
+ET
+1 1 1 rg
+n
+40 192 78 22 re
+f*
+0.105882 0.164706 0.290196 rg
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 42 206 Tm
+(DEP\0550104 P2) Tj
+T*
+ET
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+0.419608 0.447059 0.501961 rg
+BT
+1 0 0 1 42 195 Tm
+(F20MFD\0552) Tj
+T*
+ET
+1 1 1 rg
+n
+40 162 78 22 re
+f*
+0.105882 0.164706 0.290196 rg
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 42 176 Tm
+(Jumio KYC) Tj
+T*
+ET
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+0.419608 0.447059 0.501961 rg
+BT
+1 0 0 1 42 165 Tm
+(F20MFD\0553) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+15 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+16 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+17 0 obj
+<<
+/Annots [ 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R ]
+/Contents 23 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 7 0 R
+/F1-0 24 0 R
+/F2 9 0 R
+/F2-0 25 0 R
+/F3 11 0 R
+/F4 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+18 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057anumehaprincy\055a11y\057FIDP\0552025\055001\055Monitri)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 122.2 204.4375 334.3005 216.4375 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057datastudio\056google\056com\057reporting\0571bb9107c\055bb54\05544c7\055869b\055641a73f20fa2)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 122.2 182.4375 247.3965 194.4375 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057anumehaprincy\056atlassian\056net\057browse\057F20MFD\0551)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 122.2 160.4375 307.806 172.4375 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057anumehaprincy\056atlassian\056net)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 122.2 138.4375 325.333 150.4375 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057miro\056com\057app\057board\057uXjVHMQc\137Pg\075\057\077share\137link\137id\075431907947706)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 122.2 116.4375 229.9035 128.4375 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/Length 11774
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 49.2 729.8 cm
+q
+BT 1 0 0 1 0 3 Tm 13 TL /F2 10 Tf .105882 .164706 .290196 rg (05   Results) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 725.6 cm
+q
+1.2 w
+1 J
+.164706 .498039 .498039 RG
+n 0 0 m 513.6 0 l S
+Q
+Q
+q
+1 0 0 1 43.2 685.6 cm
+q
+.941176 1 .956863 rg
+n 0 36 525.6 -36 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 11 cm
+q
+.152941 .682353 .376471 rg
+BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL -0.45 0 Td /F4 12 Tf 14 TL (3) Tj /F2 12 Tf 14 TL T* .45 0 Td ET
+Q
+Q
+q
+1 0 0 1 26.16 5 cm
+q
+BT 1 0 0 1 0 17.5 Tm 13 TL /F2 8.5 Tf .101961 .101961 .101961 rg (Mean Detection Time: 3\2264 days ) Tj /F3 8.5 Tf 13 TL (\256) Tj /F2 8.5 Tf 13 TL ( 15 minutes) Tj /F1 8.5 Tf ( \227 Every incident detected within 15 minutes via FIDP. Pre-FIDP baseline: 3\2264) Tj T* (days manual scanning.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.152941 .682353 .376471 RG
+.8 w
+n 0 36 m 525.6 36 l S
+n 0 0 m 525.6 0 l S
+n 0 0 m 0 36 l S
+n 525.6 0 m 525.6 36 l S
+Q
+Q
+Q
+q
+1 0 0 1 49.2 682.6 cm
+Q
+q
+1 0 0 1 43.2 646.6 cm
+q
+.941176 1 .956863 rg
+n 0 36 525.6 -36 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 11 cm
+q
+.152941 .682353 .376471 rg
+BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL -0.45 0 Td /F4 12 Tf 14 TL (3) Tj /F2 12 Tf 14 TL T* .45 0 Td ET
+Q
+Q
+q
+1 0 0 1 26.16 5 cm
+q
+BT 1 0 0 1 0 17.5 Tm 13 TL /F2 8.5 Tf .101961 .101961 .101961 rg (29.5 hours of downtime quantified) Tj /F1 8.5 Tf ( \227 436 client impact instances across 16 failed CI/CD deployments. Business case for) Tj T* (permanent Stripe fix.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.152941 .682353 .376471 RG
+.8 w
+n 0 36 m 525.6 36 l S
+n 0 0 m 525.6 0 l S
+n 0 0 m 0 36 l S
+n 525.6 0 m 525.6 36 l S
+Q
+Q
+Q
+q
+1 0 0 1 49.2 643.6 cm
+Q
+q
+1 0 0 1 43.2 607.6 cm
+q
+.941176 1 .956863 rg
+n 0 36 525.6 -36 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 11 cm
+q
+.152941 .682353 .376471 rg
+BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL -0.45 0 Td /F4 12 Tf 14 TL (3) Tj /F2 12 Tf 14 TL T* .45 0 Td ET
+Q
+Q
+q
+1 0 0 1 26.16 5 cm
+q
+BT 1 0 0 1 0 17.5 Tm 13 TL /F2 8.5 Tf .101961 .101961 .101961 rg (Full vendor governance cycle completed) Tj /F1 8.5 Tf ( \227 Jumio: 4-month breach ) Tj /F3 8.5 Tf 13 TL (\256) Tj /F1 8.5 Tf 13 TL ( formal review ) Tj /F3 8.5 Tf 13 TL (\256) Tj /F1 8.5 Tf 13 TL ( 90-day watch ) Tj /F3 8.5 Tf 13 TL (\256) Tj /F1 8.5 Tf 13 TL ( termination ) Tj /F3 8.5 Tf 13 TL (\256) Tj /F1 8.5 Tf 13 TL T* (offboarding. CHG006, R007, C008 all documented.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.152941 .682353 .376471 RG
+.8 w
+n 0 36 m 525.6 36 l S
+n 0 0 m 525.6 0 l S
+n 0 0 m 0 36 l S
+n 525.6 0 m 525.6 36 l S
+Q
+Q
+Q
+q
+1 0 0 1 49.2 604.6 cm
+Q
+q
+1 0 0 1 49.2 580.6 cm
+q
+BT 1 0 0 1 0 16 Tm 12 TL /F2 8 Tf .333333 .333333 .333333 rg (Supporting:) Tj /F1 8 Tf ( 14.86% platform SLA breach rate \267 Payment Providers 21.74% \267 France 26.67% \267 0 client-initiated escalations \267 Stripe dual risk) Tj T* (\(vendor SLA + CI/CD root cause x4\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 561.6 cm
+q
+BT 1 0 0 1 0 3 Tm 13 TL /F2 10 Tf .105882 .164706 .290196 rg (06   Lessons Learned) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 557.4 cm
+q
+1.2 w
+1 J
+.164706 .498039 .498039 RG
+n 0 0 m 513.6 0 l S
+Q
+Q
+q
+1 0 0 1 43.2 406.4 cm
+q
+.815686 .843137 .890196 rg
+n 0 147 525.6 -19 re f*
+1 1 1 rg
+n 0 128 525.6 -19 re f*
+.956863 .964706 .976471 rg
+n 0 109 525.6 -30 re f*
+1 1 1 rg
+n 0 79 525.6 -30 re f*
+.956863 .964706 .976471 rg
+n 0 49 525.6 -19 re f*
+1 1 1 rg
+n 0 30 525.6 -30 re f*
+.105882 .164706 .290196 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 132 cm
+q
+.105882 .164706 .290196 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (Lesson) Tj T* ET
+Q
+Q
+q
+1 0 0 1 114 132 cm
+q
+.105882 .164706 .290196 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (Takeaway) Tj T* ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 113 cm
+q
+.105882 .164706 .290196 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (Schema design first) Tj T* ET
+Q
+Q
+q
+1 0 0 1 114 113 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (% symbols, $ signs, text durations \227 all caused silent SQL failures. Design for computation first, display second.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 83 cm
+q
+.105882 .164706 .290196 rg
+BT 1 0 0 1 0 14 Tm /F2 8 Tf 11 TL (Vendor signals don't) Tj T* (wait) Tj T* ET
+Q
+Q
+q
+1 0 0 1 114 94 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Jumio's degradation was visible in February. Act on the first signal, not the fourth.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 53 cm
+q
+.105882 .164706 .290196 rg
+BT 1 0 0 1 0 14 Tm /F2 8 Tf 11 TL (Ecosystem fit at) Tj T* (initiation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 114 64 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Switching Tableau ) Tj /F3 8 Tf 11 TL (\256) Tj /F1 8 Tf 11 TL ( Looker \(CHG003\) was right but cost time. Evaluate tool fit before building.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 34 cm
+q
+.105882 .164706 .290196 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (P1 vs P2 is data-driven) Tj T* ET
+Q
+Q
+q
+1 0 0 1 114 34 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (DEP-0104 had longest downtime \(230 min\) but fewer clients \(39 vs 58\). Priority is client impact, not duration.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 4 cm
+q
+.105882 .164706 .290196 rg
+BT 1 0 0 1 0 14 Tm /F2 8 Tf 11 TL (Scope discipline =) Tj T* (delivery) Tj T* ET
+Q
+Q
+q
+1 0 0 1 114 15 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Stopped at 4 modules deliberately. Delivery discipline over feature expansion.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.815686 .843137 .890196 RG
+.3 w
+n 0 147 m 525.6 147 l S
+n 0 0 m 525.6 0 l S
+n 0 0 m 0 147 l S
+n 525.6 0 m 525.6 147 l S
+n 0 128 m 525.6 128 l S
+n 0 109 m 525.6 109 l S
+n 0 79 m 525.6 79 l S
+n 0 49 m 525.6 49 l S
+n 0 30 m 525.6 30 l S
+n 108 0 m 108 147 l S
+Q
+Q
+Q
+q
+1 0 0 1 49.2 387.4 cm
+q
+BT 1 0 0 1 0 3 Tm 13 TL /F2 10 Tf .105882 .164706 .290196 rg (07   PM Decisions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 383.2 cm
+q
+1.2 w
+1 J
+.164706 .498039 .498039 RG
+n 0 0 m 513.6 0 l S
+Q
+Q
+q
+1 0 0 1 43.2 246.2 cm
+q
+.815686 .843137 .890196 rg
+n 0 133 525.6 -19 re f*
+1 1 1 rg
+n 0 114 525.6 -19 re f*
+.956863 .964706 .976471 rg
+n 0 95 525.6 -19 re f*
+1 1 1 rg
+n 0 76 525.6 -19 re f*
+.956863 .964706 .976471 rg
+n 0 57 525.6 -19 re f*
+1 1 1 rg
+n 0 38 525.6 -19 re f*
+.956863 .964706 .976471 rg
+n 0 19 525.6 -19 re f*
+.105882 .164706 .290196 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 118 cm
+q
+.105882 .164706 .290196 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (Decision) Tj T* ET
+Q
+Q
+q
+1 0 0 1 150 118 cm
+q
+.105882 .164706 .290196 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (Reason) Tj T* ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 99 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Switched Tableau ) Tj /F3 8 Tf 11 TL (\256) Tj /F1 8 Tf 11 TL ( Looker Studio) Tj T* ET
+Q
+Q
+q
+1 0 0 1 150 99 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Google ecosystem alignment. Looker connects directly to Google Sheets \227 no export needed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 80 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL -0.012 Tw (Terminated Jumio after 90-day watch) Tj T* 0 Tw ET
+Q
+Q
+q
+1 0 0 1 150 80 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Breached 2 of 3 watch months vs 99.9% SLA. Per watch terms, COO-approved termination.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 61 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Kept scope to 4 modules) Tj T* ET
+Q
+Q
+q
+1 0 0 1 150 61 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Scope creep risk logged as R005. Delivery discipline over feature expansion.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 42 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Raised CHG006 for Jumio) Tj T* ET
+Q
+Q
+q
+1 0 0 1 150 42 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Vendor termination is scope-impacting. Change log ensures decision is traceable and COO-approved.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 23 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (DEP-0104 as P2 not P1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 150 23 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (39 clients vs 58 for DEP-0109. Priority classification data-driven and documented.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 4 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Onfido identified \227 not onboarded) Tj T* ET
+Q
+Q
+q
+1 0 0 1 150 4 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Backup vendor identified as contingency. Onboarding out of scope. Documented in CHG006.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.815686 .843137 .890196 RG
+.3 w
+n 0 133 m 525.6 133 l S
+n 0 0 m 525.6 0 l S
+n 0 0 m 0 133 l S
+n 525.6 0 m 525.6 133 l S
+n 0 114 m 525.6 114 l S
+n 0 95 m 525.6 95 l S
+n 0 76 m 525.6 76 l S
+n 0 57 m 525.6 57 l S
+n 0 38 m 525.6 38 l S
+n 0 19 m 525.6 19 l S
+n 144 0 m 144 133 l S
+Q
+Q
+Q
+q
+1 0 0 1 49.2 227.2 cm
+q
+.105882 .164706 .290196 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (Project Links) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 223 cm
+q
+1.2 w
+1 J
+.164706 .498039 .498039 RG
+n 0 0 m 513.6 0 l S
+Q
+Q
+q
+1 0 0 1 43.2 109 cm
+q
+1 1 1 rg
+n 0 110 525.6 -22 re f*
+.956863 .964706 .976471 rg
+n 0 88 525.6 -22 re f*
+1 1 1 rg
+n 0 66 525.6 -22 re f*
+.956863 .964706 .976471 rg
+n 0 44 525.6 -22 re f*
+1 1 1 rg
+n 0 22 525.6 -22 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 7 93 cm
+q
+.105882 .164706 .290196 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (GitHub) Tj T* ET
+Q
+Q
+q
+1 0 0 1 79 93 cm
+q
+.164706 .498039 .498039 rg
+.164706 .498039 .498039 RG
+n 0 2.4375 m 212.1005 2.4375 l S
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (github.com/anumehaprincy-a11y/FIDP-2025-001-Monitri) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 71 cm
+q
+.105882 .164706 .290196 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (Dashboard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 79 71 cm
+q
+.164706 .498039 .498039 rg
+.164706 .498039 .498039 RG
+n 0 2.4375 m 125.1965 2.4375 l S
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (Looker Studio \227 Live Dashboard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 49 cm
+q
+.105882 .164706 .290196 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (Jira) Tj T* ET
+Q
+Q
+q
+1 0 0 1 79 49 cm
+q
+.164706 .498039 .498039 rg
+.164706 .498039 .498039 RG
+n 0 2.4375 m 185.606 2.4375 l S
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (F20MFD-1 \267 F20MFD-2 \267 F20MFD-3 \227 All DONE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 27 cm
+q
+.105882 .164706 .290196 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (Confluence) Tj T* ET
+Q
+Q
+q
+1 0 0 1 79 27 cm
+q
+.164706 .498039 .498039 rg
+.164706 .498039 .498039 RG
+n 0 2.4375 m 203.133 2.4375 l S
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (FIDP-2025-001 Monitri FinOps Dashboard \227 6 pages) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 5 cm
+q
+.105882 .164706 .290196 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (Miro) Tj T* ET
+Q
+Q
+q
+1 0 0 1 79 5 cm
+q
+.164706 .498039 .498039 rg
+.164706 .498039 .498039 RG
+n 0 2.4375 m 107.7035 2.4375 l S
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (Incident Response Workflow) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.815686 .843137 .890196 RG
+.3 w
+n 0 110 m 525.6 110 l S
+n 0 0 m 525.6 0 l S
+n 0 0 m 0 110 l S
+n 525.6 0 m 525.6 110 l S
+n 0 88 m 525.6 88 l S
+n 0 66 m 525.6 66 l S
+n 0 44 m 525.6 44 l S
+n 0 22 m 525.6 22 l S
+n 72 0 m 72 110 l S
+.164706 .498039 .498039 RG
+.8 w
+n 0 110 m 525.6 110 l S
+n 0 0 m 525.6 0 l S
+n 0 0 m 0 110 l S
+n 525.6 0 m 525.6 110 l S
+Q
+Q
+Q
+q
+1 0 0 1 49.2 103 cm
+Q
+q
+1 0 0 1 49.2 101.5 cm
+q
+.5 w
+1 J
+.815686 .843137 .890196 RG
+n 0 0 m 513.6 0 l S
+Q
+Q
+q
+1 0 0 1 49.2 87.5 cm
+q
+.533333 .533333 .533333 rg
+BT 1 0 0 1 0 3 Tm /F1 7 Tf 10 TL (FIDP-2025-001 \267 Case Study v5.0 \267 Anumeha Princy, PMP\256 \267 June 2026) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.976471 0.980392 0.984314 rg
+n
+44 110 524 20 re
+f*
+0.105882 0.164706 0.290196 rg
+BT
+/F2-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 50 117 Tm
+(Architecture) Tj
+T*
+ET
+0.164706 0.498039 0.498039 rg
+BT
+/F1-0 8.5 Tf
+10.2 TL
+ET
+BT
+1 0 0 1 117 117 Tm
+(Data Pipeline Diagram \227 github\056com\057\056\056\056\057Monitri\137Data\137Pipeline1\056drawio\056png) Tj
+T*
+ET
+0.164706 0.498039 0.498039 RG
+0.5 w
+n
+117 116 m
+400.441 116 l
+S
+0.627451 0.682353 0.752941 RG
+0.75 w
+n
+43.2 109 m
+568.8 109 l
+S
+n
+115.2 109 m
+115.2 131 l
+S
+Q
+
+
+endstream
+endobj
+24 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+25 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 26
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000127 00000 n 
+0000000176 00000 n 
+0000000450 00000 n 
+0000000675 00000 n 
+0000009190 00000 n 
+0000009297 00000 n 
+0000009404 00000 n 
+0000009516 00000 n 
+0000009632 00000 n 
+0000009710 00000 n 
+0000009794 00000 n 
+0000010065 00000 n 
+0000020912 00000 n 
+0000021020 00000 n 
+0000021133 00000 n 
+0000021439 00000 n 
+0000021678 00000 n 
+0000021937 00000 n 
+0000022161 00000 n 
+0000022360 00000 n 
+0000022619 00000 n 
+0000034447 00000 n 
+0000034555 00000 n 
+trailer
+<<
+/Size 26
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+34668
+%%EOF
