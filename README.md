@@ -24,6 +24,22 @@ Not a template. Not a course assignment. A full operational intelligence system 
 ---
 
 ## Explore the project
+---
+
+## AI War Room — Live Demo
+
+🔗 **[Launch AI War Room](https://monitri-war-room.vercel.app)**
+
+Built as a post-project extension of FIDP-2025-001 — a real-time AI-powered incident command center for Monitri operations.
+
+Select a scenario, hit Analyze, and get an instant structured ops response: severity classification, escalation path, stakeholder communication draft, root cause hypotheses, and recommended actions.
+
+| | |
+|---|---|
+| 3 live scenarios | DEP-0109 P1 · DEP-0104 P2 · Jumio Vendor Breach |
+| AI-powered analysis | Gemini 2.5 Flash via serverless API |
+| Built with | React · Node.js · Vercel · Google AI Studio |
+| Context | FIDP-2025-001 · Monitri BaaS · 350 clients · 5 vendors |
 - [Video Walkthrough — Loom](https://www.loom.com/share/3a5f3f17f371427392e214d460b36bc7)
 - [Executive Dashboard — Looker Studio](https://datastudio.google.com/reporting/1bb9107c-bb54-44c7-869b-641a73f20fa2)
 - [Case Study PDF](case-study/Monitri_CS1.pdf)
